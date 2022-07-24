@@ -22,7 +22,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:10101" ;
     skos:prefLabel "Abidjan"@fra-Latn ;
-    wdata:q7200235 "CI010101" ;
+    wdata:Q7200235 "CI010101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -552,7 +552,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:100101" ;
     skos:prefLabel "Goulia"@fra-Latn ;
-    wdata:q7200235 "CI100101" ;
+    wdata:Q7200235 "CI100101" ;
 .
 
 <urn:mdciii:1603:16:384:3:100102>
@@ -562,7 +562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:100102" ;
     skos:prefLabel "Kaniasso"@fra-Latn ;
-    wdata:q7200235 "CI100102" ;
+    wdata:Q7200235 "CI100102" ;
 .
 
 <urn:mdciii:1603:16:384:3:100103>
@@ -572,7 +572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:100103" ;
     skos:prefLabel "Mahandiana-Sokourani"@fra-Latn ;
-    wdata:q7200235 "CI100103" ;
+    wdata:Q7200235 "CI100103" ;
 .
 
 <urn:mdciii:1603:16:384:3:100201>
@@ -582,7 +582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:100201" ;
     skos:prefLabel "Minignan"@fra-Latn ;
-    wdata:q7200235 "CI100201" ;
+    wdata:Q7200235 "CI100201" ;
 .
 
 <urn:mdciii:1603:16:384:3:100202>
@@ -592,7 +592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:100202" ;
     skos:prefLabel "Kimbirila-Nord"@fra-Latn ;
-    wdata:q7200235 "CI100202" ;
+    wdata:Q7200235 "CI100202" ;
 .
 
 <urn:mdciii:1603:16:384:3:100203>
@@ -602,7 +602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:100203" ;
     skos:prefLabel "Sokoro"@fra-Latn ;
-    wdata:q7200235 "CI100203" ;
+    wdata:Q7200235 "CI100203" ;
 .
 
 <urn:mdciii:1603:16:384:3:100204>
@@ -612,7 +612,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:100204" ;
     skos:prefLabel "Tienko"@fra-Latn ;
-    wdata:q7200235 "CI100204" ;
+    wdata:Q7200235 "CI100204" ;
 .
 
 <urn:mdciii:1603:16:384:3:10102>
@@ -622,7 +622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:10102" ;
     skos:prefLabel "Anyama"@fra-Latn ;
-    wdata:q7200235 "CI010102" ;
+    wdata:Q7200235 "CI010102" ;
 .
 
 <urn:mdciii:1603:16:384:3:10103>
@@ -632,7 +632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:10103" ;
     skos:prefLabel "Bingerville"@fra-Latn ;
-    wdata:q7200235 "CI010103" ;
+    wdata:Q7200235 "CI010103" ;
 .
 
 <urn:mdciii:1603:16:384:3:10104>
@@ -642,7 +642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:10104" ;
     skos:prefLabel "Brofodoumé"@fra-Latn ;
-    wdata:q7200235 "CI010104" ;
+    wdata:Q7200235 "CI010104" ;
 .
 
 <urn:mdciii:1603:16:384:3:10105>
@@ -652,7 +652,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:10105" ;
     skos:prefLabel "Songon"@fra-Latn ;
-    wdata:q7200235 "CI010105" ;
+    wdata:Q7200235 "CI010105" ;
 .
 
 <urn:mdciii:1603:16:384:3:110101>
@@ -662,7 +662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110101" ;
     skos:prefLabel "Ando-Kékrénou"@fra-Latn ;
-    wdata:q7200235 "CI110101" ;
+    wdata:Q7200235 "CI110101" ;
 .
 
 <urn:mdciii:1603:16:384:3:110102>
@@ -672,7 +672,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110102" ;
     skos:prefLabel "Béoumi"@fra-Latn ;
-    wdata:q7200235 "CI110102" ;
+    wdata:Q7200235 "CI110102" ;
 .
 
 <urn:mdciii:1603:16:384:3:110103>
@@ -682,7 +682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110103" ;
     skos:prefLabel "Bodokro"@fra-Latn ;
-    wdata:q7200235 "CI110103" ;
+    wdata:Q7200235 "CI110103" ;
 .
 
 <urn:mdciii:1603:16:384:3:110104>
@@ -692,7 +692,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110104" ;
     skos:prefLabel "Kondrobo"@fra-Latn ;
-    wdata:q7200235 "CI110104" ;
+    wdata:Q7200235 "CI110104" ;
 .
 
 <urn:mdciii:1603:16:384:3:110105>
@@ -702,7 +702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110105" ;
     skos:prefLabel "Lolobo"@fra-Latn ;
-    wdata:q7200235 "CI110105" ;
+    wdata:Q7200235 "CI110105" ;
 .
 
 <urn:mdciii:1603:16:384:3:110106>
@@ -712,7 +712,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110106" ;
     skos:prefLabel "Marabadiassa"@fra-Latn ;
-    wdata:q7200235 "CI110106" ;
+    wdata:Q7200235 "CI110106" ;
 .
 
 <urn:mdciii:1603:16:384:3:110107>
@@ -722,7 +722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110107" ;
     skos:prefLabel "N'Guéssankro"@fra-Latn ;
-    wdata:q7200235 "CI110107" ;
+    wdata:Q7200235 "CI110107" ;
 .
 
 <urn:mdciii:1603:16:384:3:110201>
@@ -732,7 +732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110201" ;
     skos:prefLabel "Botro"@fra-Latn ;
-    wdata:q7200235 "CI110201" ;
+    wdata:Q7200235 "CI110201" ;
 .
 
 <urn:mdciii:1603:16:384:3:110202>
@@ -742,7 +742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110202" ;
     skos:prefLabel "Diabo"@fra-Latn ;
-    wdata:q7200235 "CI110202" ;
+    wdata:Q7200235 "CI110202" ;
 .
 
 <urn:mdciii:1603:16:384:3:110203>
@@ -752,7 +752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110203" ;
     skos:prefLabel "Krofoinsou"@fra-Latn ;
-    wdata:q7200235 "CI110203" ;
+    wdata:Q7200235 "CI110203" ;
 .
 
 <urn:mdciii:1603:16:384:3:110204>
@@ -762,7 +762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110204" ;
     skos:prefLabel "Languibonou"@fra-Latn ;
-    wdata:q7200235 "CI110204" ;
+    wdata:Q7200235 "CI110204" ;
 .
 
 <urn:mdciii:1603:16:384:3:110301>
@@ -772,7 +772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110301" ;
     skos:prefLabel "Bouaké"@fra-Latn ;
-    wdata:q7200235 "CI110301" ;
+    wdata:Q7200235 "CI110301" ;
 .
 
 <urn:mdciii:1603:16:384:3:110302>
@@ -782,7 +782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110302" ;
     skos:prefLabel "Bounda"@fra-Latn ;
-    wdata:q7200235 "CI110302" ;
+    wdata:Q7200235 "CI110302" ;
 .
 
 <urn:mdciii:1603:16:384:3:110303>
@@ -792,7 +792,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110303" ;
     skos:prefLabel "Brobo"@fra-Latn ;
-    wdata:q7200235 "CI110303" ;
+    wdata:Q7200235 "CI110303" ;
 .
 
 <urn:mdciii:1603:16:384:3:110304>
@@ -802,7 +802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110304" ;
     skos:prefLabel "Djébonoua"@fra-Latn ;
-    wdata:q7200235 "CI110304" ;
+    wdata:Q7200235 "CI110304" ;
 .
 
 <urn:mdciii:1603:16:384:3:110305>
@@ -812,7 +812,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110305" ;
     skos:prefLabel "Mamini"@fra-Latn ;
-    wdata:q7200235 "CI110305" ;
+    wdata:Q7200235 "CI110305" ;
 .
 
 <urn:mdciii:1603:16:384:3:110401>
@@ -822,7 +822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110401" ;
     skos:prefLabel "Sakassou"@fra-Latn ;
-    wdata:q7200235 "CI110401" ;
+    wdata:Q7200235 "CI110401" ;
 .
 
 <urn:mdciii:1603:16:384:3:110402>
@@ -832,7 +832,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110402" ;
     skos:prefLabel "Ayaou-Sran"@fra-Latn ;
-    wdata:q7200235 "CI110402" ;
+    wdata:Q7200235 "CI110402" ;
 .
 
 <urn:mdciii:1603:16:384:3:110403>
@@ -842,7 +842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110403" ;
     skos:prefLabel "Dibri-Assirikro"@fra-Latn ;
-    wdata:q7200235 "CI110403" ;
+    wdata:Q7200235 "CI110403" ;
 .
 
 <urn:mdciii:1603:16:384:3:110404>
@@ -852,7 +852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:110404" ;
     skos:prefLabel "Toumodi-Sakassou"@fra-Latn ;
-    wdata:q7200235 "CI110404" ;
+    wdata:Q7200235 "CI110404" ;
 .
 
 <urn:mdciii:1603:16:384:3:120101>
@@ -862,7 +862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120101" ;
     skos:prefLabel "Dahiri"@fra-Latn ;
-    wdata:q7200235 "CI120101" ;
+    wdata:Q7200235 "CI120101" ;
 .
 
 <urn:mdciii:1603:16:384:3:120102>
@@ -872,7 +872,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120102" ;
     skos:prefLabel "Fresco"@fra-Latn ;
-    wdata:q7200235 "CI120102" ;
+    wdata:Q7200235 "CI120102" ;
 .
 
 <urn:mdciii:1603:16:384:3:120103>
@@ -882,7 +882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120103" ;
     skos:prefLabel "Gbagbam"@fra-Latn ;
-    wdata:q7200235 "CI120103" ;
+    wdata:Q7200235 "CI120103" ;
 .
 
 <urn:mdciii:1603:16:384:3:120201>
@@ -892,7 +892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120201" ;
     skos:prefLabel "Sassandra"@fra-Latn ;
-    wdata:q7200235 "CI120201" ;
+    wdata:Q7200235 "CI120201" ;
 .
 
 <urn:mdciii:1603:16:384:3:120202>
@@ -902,7 +902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120202" ;
     skos:prefLabel "Dakpadou"@fra-Latn ;
-    wdata:q7200235 "CI120202" ;
+    wdata:Q7200235 "CI120202" ;
 .
 
 <urn:mdciii:1603:16:384:3:120203>
@@ -912,7 +912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120203" ;
     skos:prefLabel "Grihiri"@fra-Latn ;
-    wdata:q7200235 "CI120203" ;
+    wdata:Q7200235 "CI120203" ;
 .
 
 <urn:mdciii:1603:16:384:3:120204>
@@ -922,7 +922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120204" ;
     skos:prefLabel "Lobakuya"@fra-Latn ;
-    wdata:q7200235 "CI120204" ;
+    wdata:Q7200235 "CI120204" ;
 .
 
 <urn:mdciii:1603:16:384:3:120205>
@@ -932,7 +932,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120205" ;
     skos:prefLabel "Medon"@fra-Latn ;
-    wdata:q7200235 "CI120205" ;
+    wdata:Q7200235 "CI120205" ;
 .
 
 <urn:mdciii:1603:16:384:3:120206>
@@ -942,7 +942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:120206" ;
     skos:prefLabel "Sago"@fra-Latn ;
-    wdata:q7200235 "CI120206" ;
+    wdata:Q7200235 "CI120206" ;
 .
 
 <urn:mdciii:1603:16:384:3:130101>
@@ -952,7 +952,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130101" ;
     skos:prefLabel "Bayota"@fra-Latn ;
-    wdata:q7200235 "CI130101" ;
+    wdata:Q7200235 "CI130101" ;
 .
 
 <urn:mdciii:1603:16:384:3:130102>
@@ -962,7 +962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130102" ;
     skos:prefLabel "Dahiépa-Kéhi"@fra-Latn ;
-    wdata:q7200235 "CI130102" ;
+    wdata:Q7200235 "CI130102" ;
 .
 
 <urn:mdciii:1603:16:384:3:130103>
@@ -972,7 +972,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130103" ;
     skos:prefLabel "Dignago"@fra-Latn ;
-    wdata:q7200235 "CI130103" ;
+    wdata:Q7200235 "CI130103" ;
 .
 
 <urn:mdciii:1603:16:384:3:130104>
@@ -982,7 +982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130104" ;
     skos:prefLabel "Dougroupalégnoa"@fra-Latn ;
-    wdata:q7200235 "CI130104" ;
+    wdata:Q7200235 "CI130104" ;
 .
 
 <urn:mdciii:1603:16:384:3:130105>
@@ -992,7 +992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130105" ;
     skos:prefLabel "Doukouyo"@fra-Latn ;
-    wdata:q7200235 "CI130105" ;
+    wdata:Q7200235 "CI130105" ;
 .
 
 <urn:mdciii:1603:16:384:3:130106>
@@ -1002,7 +1002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130106" ;
     skos:prefLabel "Gagnoa"@fra-Latn ;
-    wdata:q7200235 "CI130106" ;
+    wdata:Q7200235 "CI130106" ;
 .
 
 <urn:mdciii:1603:16:384:3:130107>
@@ -1012,7 +1012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130107" ;
     skos:prefLabel "Galébouo"@fra-Latn ;
-    wdata:q7200235 "CI130107" ;
+    wdata:Q7200235 "CI130107" ;
 .
 
 <urn:mdciii:1603:16:384:3:130108>
@@ -1022,7 +1022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130108" ;
     skos:prefLabel "Gnagbodougnoa"@fra-Latn ;
-    wdata:q7200235 "CI130108" ;
+    wdata:Q7200235 "CI130108" ;
 .
 
 <urn:mdciii:1603:16:384:3:130109>
@@ -1032,7 +1032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130109" ;
     skos:prefLabel "Guiberoua"@fra-Latn ;
-    wdata:q7200235 "CI130109" ;
+    wdata:Q7200235 "CI130109" ;
 .
 
 <urn:mdciii:1603:16:384:3:130110>
@@ -1042,7 +1042,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130110" ;
     skos:prefLabel "Ouragahio"@fra-Latn ;
-    wdata:q7200235 "CI130110" ;
+    wdata:Q7200235 "CI130110" ;
 .
 
 <urn:mdciii:1603:16:384:3:130111>
@@ -1052,7 +1052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130111" ;
     skos:prefLabel "Sérihio"@fra-Latn ;
-    wdata:q7200235 "CI130111" ;
+    wdata:Q7200235 "CI130111" ;
 .
 
 <urn:mdciii:1603:16:384:3:130112>
@@ -1062,7 +1062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130112" ;
     skos:prefLabel "Yopohue"@fra-Latn ;
-    wdata:q7200235 "CI130112" ;
+    wdata:Q7200235 "CI130112" ;
 .
 
 <urn:mdciii:1603:16:384:3:130201>
@@ -1072,7 +1072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130201" ;
     skos:prefLabel "Oumé"@fra-Latn ;
-    wdata:q7200235 "CI130201" ;
+    wdata:Q7200235 "CI130201" ;
 .
 
 <urn:mdciii:1603:16:384:3:130202>
@@ -1082,7 +1082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130202" ;
     skos:prefLabel "Diégonéfla"@fra-Latn ;
-    wdata:q7200235 "CI130202" ;
+    wdata:Q7200235 "CI130202" ;
 .
 
 <urn:mdciii:1603:16:384:3:130203>
@@ -1092,7 +1092,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130203" ;
     skos:prefLabel "Guépahouo"@fra-Latn ;
-    wdata:q7200235 "CI130203" ;
+    wdata:Q7200235 "CI130203" ;
 .
 
 <urn:mdciii:1603:16:384:3:130204>
@@ -1102,7 +1102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:130204" ;
     skos:prefLabel "Tonla"@fra-Latn ;
-    wdata:q7200235 "CI130204" ;
+    wdata:Q7200235 "CI130204" ;
 .
 
 <urn:mdciii:1603:16:384:3:140101>
@@ -1112,7 +1112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140101" ;
     skos:prefLabel "Appimadoum"@fra-Latn ;
-    wdata:q7200235 "CI140101" ;
+    wdata:Q7200235 "CI140101" ;
 .
 
 <urn:mdciii:1603:16:384:3:140102>
@@ -1122,7 +1122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140102" ;
     skos:prefLabel "Bondo"@fra-Latn ;
-    wdata:q7200235 "CI140102" ;
+    wdata:Q7200235 "CI140102" ;
 .
 
 <urn:mdciii:1603:16:384:3:140103>
@@ -1132,7 +1132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140103" ;
     skos:prefLabel "Bondoukou"@fra-Latn ;
-    wdata:q7200235 "CI140103" ;
+    wdata:Q7200235 "CI140103" ;
 .
 
 <urn:mdciii:1603:16:384:3:140104>
@@ -1142,7 +1142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140104" ;
     skos:prefLabel "Gouméré"@fra-Latn ;
-    wdata:q7200235 "CI140104" ;
+    wdata:Q7200235 "CI140104" ;
 .
 
 <urn:mdciii:1603:16:384:3:140105>
@@ -1152,7 +1152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140105" ;
     skos:prefLabel "Laoudi-Ba"@fra-Latn ;
-    wdata:q7200235 "CI140105" ;
+    wdata:Q7200235 "CI140105" ;
 .
 
 <urn:mdciii:1603:16:384:3:140106>
@@ -1162,7 +1162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140106" ;
     skos:prefLabel "Pinda-Boroko"@fra-Latn ;
-    wdata:q7200235 "CI140106" ;
+    wdata:Q7200235 "CI140106" ;
 .
 
 <urn:mdciii:1603:16:384:3:140107>
@@ -1172,7 +1172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140107" ;
     skos:prefLabel "Sapli-Sépingo"@fra-Latn ;
-    wdata:q7200235 "CI140107" ;
+    wdata:Q7200235 "CI140107" ;
 .
 
 <urn:mdciii:1603:16:384:3:140108>
@@ -1182,7 +1182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140108" ;
     skos:prefLabel "Sorobango"@fra-Latn ;
-    wdata:q7200235 "CI140108" ;
+    wdata:Q7200235 "CI140108" ;
 .
 
 <urn:mdciii:1603:16:384:3:140109>
@@ -1192,7 +1192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140109" ;
     skos:prefLabel "Tabagne"@fra-Latn ;
-    wdata:q7200235 "CI140109" ;
+    wdata:Q7200235 "CI140109" ;
 .
 
 <urn:mdciii:1603:16:384:3:140110>
@@ -1202,7 +1202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140110" ;
     skos:prefLabel "Tagadi"@fra-Latn ;
-    wdata:q7200235 "CI140110" ;
+    wdata:Q7200235 "CI140110" ;
 .
 
 <urn:mdciii:1603:16:384:3:140111>
@@ -1212,7 +1212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140111" ;
     skos:prefLabel "Taoudi"@fra-Latn ;
-    wdata:q7200235 "CI140111" ;
+    wdata:Q7200235 "CI140111" ;
 .
 
 <urn:mdciii:1603:16:384:3:140112>
@@ -1222,7 +1222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140112" ;
     skos:prefLabel "Yézimala"@fra-Latn ;
-    wdata:q7200235 "CI140112" ;
+    wdata:Q7200235 "CI140112" ;
 .
 
 <urn:mdciii:1603:16:384:3:140201>
@@ -1232,7 +1232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140201" ;
     skos:prefLabel "Koun-Fao"@fra-Latn ;
-    wdata:q7200235 "CI140201" ;
+    wdata:Q7200235 "CI140201" ;
 .
 
 <urn:mdciii:1603:16:384:3:140202>
@@ -1242,7 +1242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140202" ;
     skos:prefLabel "Boahia"@fra-Latn ;
-    wdata:q7200235 "CI140202" ;
+    wdata:Q7200235 "CI140202" ;
 .
 
 <urn:mdciii:1603:16:384:3:140203>
@@ -1252,7 +1252,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140203" ;
     skos:prefLabel "Kokomian"@fra-Latn ;
-    wdata:q7200235 "CI140203" ;
+    wdata:Q7200235 "CI140203" ;
 .
 
 <urn:mdciii:1603:16:384:3:140204>
@@ -1262,7 +1262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140204" ;
     skos:prefLabel "Kouassi-Datékro"@fra-Latn ;
-    wdata:q7200235 "CI140204" ;
+    wdata:Q7200235 "CI140204" ;
 .
 
 <urn:mdciii:1603:16:384:3:140205>
@@ -1272,7 +1272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140205" ;
     skos:prefLabel "Tankessé"@fra-Latn ;
-    wdata:q7200235 "CI140205" ;
+    wdata:Q7200235 "CI140205" ;
 .
 
 <urn:mdciii:1603:16:384:3:140206>
@@ -1282,7 +1282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140206" ;
     skos:prefLabel "Tienkoikro"@fra-Latn ;
-    wdata:q7200235 "CI140206" ;
+    wdata:Q7200235 "CI140206" ;
 .
 
 <urn:mdciii:1603:16:384:3:140301>
@@ -1292,7 +1292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140301" ;
     skos:prefLabel "Sandégué"@fra-Latn ;
-    wdata:q7200235 "CI140301" ;
+    wdata:Q7200235 "CI140301" ;
 .
 
 <urn:mdciii:1603:16:384:3:140302>
@@ -1302,7 +1302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140302" ;
     skos:prefLabel "Bandakagni-Tomora"@fra-Latn ;
-    wdata:q7200235 "CI140302" ;
+    wdata:Q7200235 "CI140302" ;
 .
 
 <urn:mdciii:1603:16:384:3:140303>
@@ -1312,7 +1312,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140303" ;
     skos:prefLabel "Dimandougou"@fra-Latn ;
-    wdata:q7200235 "CI140303" ;
+    wdata:Q7200235 "CI140303" ;
 .
 
 <urn:mdciii:1603:16:384:3:140304>
@@ -1322,7 +1322,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140304" ;
     skos:prefLabel "Yorobodi"@fra-Latn ;
-    wdata:q7200235 "CI140304" ;
+    wdata:Q7200235 "CI140304" ;
 .
 
 <urn:mdciii:1603:16:384:3:140401>
@@ -1332,7 +1332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140401" ;
     skos:prefLabel "Tanda"@fra-Latn ;
-    wdata:q7200235 "CI140401" ;
+    wdata:Q7200235 "CI140401" ;
 .
 
 <urn:mdciii:1603:16:384:3:140402>
@@ -1342,7 +1342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140402" ;
     skos:prefLabel "Amanvi"@fra-Latn ;
-    wdata:q7200235 "CI140402" ;
+    wdata:Q7200235 "CI140402" ;
 .
 
 <urn:mdciii:1603:16:384:3:140403>
@@ -1352,7 +1352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140403" ;
     skos:prefLabel "Diamba"@fra-Latn ;
-    wdata:q7200235 "CI140403" ;
+    wdata:Q7200235 "CI140403" ;
 .
 
 <urn:mdciii:1603:16:384:3:140404>
@@ -1362,7 +1362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140404" ;
     skos:prefLabel "Tchèdio"@fra-Latn ;
-    wdata:q7200235 "CI140404" ;
+    wdata:Q7200235 "CI140404" ;
 .
 
 <urn:mdciii:1603:16:384:3:140501>
@@ -1372,7 +1372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140501" ;
     skos:prefLabel "Transua"@fra-Latn ;
-    wdata:q7200235 "CI140501" ;
+    wdata:Q7200235 "CI140501" ;
 .
 
 <urn:mdciii:1603:16:384:3:140502>
@@ -1382,7 +1382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140502" ;
     skos:prefLabel "Assuéfry"@fra-Latn ;
-    wdata:q7200235 "CI140502" ;
+    wdata:Q7200235 "CI140502" ;
 .
 
 <urn:mdciii:1603:16:384:3:140503>
@@ -1392,7 +1392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:140503" ;
     skos:prefLabel "Kouassia-Niaguini"@fra-Latn ;
-    wdata:q7200235 "CI140503" ;
+    wdata:Q7200235 "CI140503" ;
 .
 
 <urn:mdciii:1603:16:384:3:150101>
@@ -1402,7 +1402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150101" ;
     skos:prefLabel "Dabou"@fra-Latn ;
-    wdata:q7200235 "CI150101" ;
+    wdata:Q7200235 "CI150101" ;
 .
 
 <urn:mdciii:1603:16:384:3:150102>
@@ -1412,7 +1412,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150102" ;
     skos:prefLabel "Lopou"@fra-Latn ;
-    wdata:q7200235 "CI150102" ;
+    wdata:Q7200235 "CI150102" ;
 .
 
 <urn:mdciii:1603:16:384:3:150103>
@@ -1422,7 +1422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150103" ;
     skos:prefLabel "Toupah"@fra-Latn ;
-    wdata:q7200235 "CI150103" ;
+    wdata:Q7200235 "CI150103" ;
 .
 
 <urn:mdciii:1603:16:384:3:150201>
@@ -1432,7 +1432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150201" ;
     skos:prefLabel "Ahouanou"@fra-Latn ;
-    wdata:q7200235 "CI150201" ;
+    wdata:Q7200235 "CI150201" ;
 .
 
 <urn:mdciii:1603:16:384:3:150202>
@@ -1442,7 +1442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150202" ;
     skos:prefLabel "Bacanda"@fra-Latn ;
-    wdata:q7200235 "CI150202" ;
+    wdata:Q7200235 "CI150202" ;
 .
 
 <urn:mdciii:1603:16:384:3:150203>
@@ -1452,7 +1452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150203" ;
     skos:prefLabel "Ebonou"@fra-Latn ;
-    wdata:q7200235 "CI150203" ;
+    wdata:Q7200235 "CI150203" ;
 .
 
 <urn:mdciii:1603:16:384:3:150204>
@@ -1462,7 +1462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150204" ;
     skos:prefLabel "Grand Lahou"@fra-Latn ;
-    wdata:q7200235 "CI150204" ;
+    wdata:Q7200235 "CI150204" ;
 .
 
 <urn:mdciii:1603:16:384:3:150205>
@@ -1472,7 +1472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150205" ;
     skos:prefLabel "Toukouzou"@fra-Latn ;
-    wdata:q7200235 "CI150205" ;
+    wdata:Q7200235 "CI150205" ;
 .
 
 <urn:mdciii:1603:16:384:3:150301>
@@ -1482,7 +1482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150301" ;
     skos:prefLabel "Jacqueville"@fra-Latn ;
-    wdata:q7200235 "CI150301" ;
+    wdata:Q7200235 "CI150301" ;
 .
 
 <urn:mdciii:1603:16:384:3:150302>
@@ -1492,7 +1492,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:150302" ;
     skos:prefLabel "Attoutou"@fra-Latn ;
-    wdata:q7200235 "CI150302" ;
+    wdata:Q7200235 "CI150302" ;
 .
 
 <urn:mdciii:1603:16:384:3:160101>
@@ -1502,7 +1502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160101" ;
     skos:prefLabel "Bangolo"@fra-Latn ;
-    wdata:q7200235 "CI160101" ;
+    wdata:Q7200235 "CI160101" ;
 .
 
 <urn:mdciii:1603:16:384:3:160102>
@@ -1512,7 +1512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160102" ;
     skos:prefLabel "Béoué-Zibiao"@fra-Latn ;
-    wdata:q7200235 "CI160102" ;
+    wdata:Q7200235 "CI160102" ;
 .
 
 <urn:mdciii:1603:16:384:3:160103>
@@ -1522,7 +1522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160103" ;
     skos:prefLabel "Bléniméouin"@fra-Latn ;
-    wdata:q7200235 "CI160103" ;
+    wdata:Q7200235 "CI160103" ;
 .
 
 <urn:mdciii:1603:16:384:3:160104>
@@ -1532,7 +1532,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160104" ;
     skos:prefLabel "Diéouzon"@fra-Latn ;
-    wdata:q7200235 "CI160104" ;
+    wdata:Q7200235 "CI160104" ;
 .
 
 <urn:mdciii:1603:16:384:3:160105>
@@ -1542,7 +1542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160105" ;
     skos:prefLabel "Gohouo-Zagna"@fra-Latn ;
-    wdata:q7200235 "CI160105" ;
+    wdata:Q7200235 "CI160105" ;
 .
 
 <urn:mdciii:1603:16:384:3:160106>
@@ -1552,7 +1552,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160106" ;
     skos:prefLabel "Guinglo-Tahouaké"@fra-Latn ;
-    wdata:q7200235 "CI160106" ;
+    wdata:Q7200235 "CI160106" ;
 .
 
 <urn:mdciii:1603:16:384:3:160107>
@@ -1562,7 +1562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160107" ;
     skos:prefLabel "Kahin-Zarabaon"@fra-Latn ;
-    wdata:q7200235 "CI160107" ;
+    wdata:Q7200235 "CI160107" ;
 .
 
 <urn:mdciii:1603:16:384:3:160108>
@@ -1572,7 +1572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160108" ;
     skos:prefLabel "Zéo"@fra-Latn ;
-    wdata:q7200235 "CI160108" ;
+    wdata:Q7200235 "CI160108" ;
 .
 
 <urn:mdciii:1603:16:384:3:160109>
@@ -1582,7 +1582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160109" ;
     skos:prefLabel "Zou"@fra-Latn ;
-    wdata:q7200235 "CI160109" ;
+    wdata:Q7200235 "CI160109" ;
 .
 
 <urn:mdciii:1603:16:384:3:160201>
@@ -1592,7 +1592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160201" ;
     skos:prefLabel "Bagohouo"@fra-Latn ;
-    wdata:q7200235 "CI160201" ;
+    wdata:Q7200235 "CI160201" ;
 .
 
 <urn:mdciii:1603:16:384:3:160202>
@@ -1602,7 +1602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160202" ;
     skos:prefLabel "Duékoué"@fra-Latn ;
-    wdata:q7200235 "CI160202" ;
+    wdata:Q7200235 "CI160202" ;
 .
 
 <urn:mdciii:1603:16:384:3:160203>
@@ -1612,7 +1612,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160203" ;
     skos:prefLabel "Gbapleu"@fra-Latn ;
-    wdata:q7200235 "CI160203" ;
+    wdata:Q7200235 "CI160203" ;
 .
 
 <urn:mdciii:1603:16:384:3:160204>
@@ -1622,7 +1622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160204" ;
     skos:prefLabel "Guéhiébly"@fra-Latn ;
-    wdata:q7200235 "CI160204" ;
+    wdata:Q7200235 "CI160204" ;
 .
 
 <urn:mdciii:1603:16:384:3:160205>
@@ -1632,7 +1632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160205" ;
     skos:prefLabel "Guézon"@fra-Latn ;
-    wdata:q7200235 "CI160205" ;
+    wdata:Q7200235 "CI160205" ;
 .
 
 <urn:mdciii:1603:16:384:3:160301>
@@ -1642,7 +1642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160301" ;
     skos:prefLabel "Facobly"@fra-Latn ;
-    wdata:q7200235 "CI160301" ;
+    wdata:Q7200235 "CI160301" ;
 .
 
 <urn:mdciii:1603:16:384:3:160302>
@@ -1652,7 +1652,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160302" ;
     skos:prefLabel "Guézon"@fra-Latn ;
-    wdata:q7200235 "CI160302" ;
+    wdata:Q7200235 "CI160302" ;
 .
 
 <urn:mdciii:1603:16:384:3:160303>
@@ -1662,7 +1662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160303" ;
     skos:prefLabel "Koua"@fra-Latn ;
-    wdata:q7200235 "CI160303" ;
+    wdata:Q7200235 "CI160303" ;
 .
 
 <urn:mdciii:1603:16:384:3:160304>
@@ -1672,7 +1672,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160304" ;
     skos:prefLabel "Sémien"@fra-Latn ;
-    wdata:q7200235 "CI160304" ;
+    wdata:Q7200235 "CI160304" ;
 .
 
 <urn:mdciii:1603:16:384:3:160305>
@@ -1682,7 +1682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160305" ;
     skos:prefLabel "Tiény-Séably"@fra-Latn ;
-    wdata:q7200235 "CI160305" ;
+    wdata:Q7200235 "CI160305" ;
 .
 
 <urn:mdciii:1603:16:384:3:160401>
@@ -1692,7 +1692,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160401" ;
     skos:prefLabel "Kouibly"@fra-Latn ;
-    wdata:q7200235 "CI160401" ;
+    wdata:Q7200235 "CI160401" ;
 .
 
 <urn:mdciii:1603:16:384:3:160402>
@@ -1702,7 +1702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160402" ;
     skos:prefLabel "Nidrou"@fra-Latn ;
-    wdata:q7200235 "CI160402" ;
+    wdata:Q7200235 "CI160402" ;
 .
 
 <urn:mdciii:1603:16:384:3:160403>
@@ -1712,7 +1712,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160403" ;
     skos:prefLabel "Ouyably-Gnondrou"@fra-Latn ;
-    wdata:q7200235 "CI160403" ;
+    wdata:Q7200235 "CI160403" ;
 .
 
 <urn:mdciii:1603:16:384:3:160404>
@@ -1722,7 +1722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:160404" ;
     skos:prefLabel "Totrodrou"@fra-Latn ;
-    wdata:q7200235 "CI160404" ;
+    wdata:Q7200235 "CI160404" ;
 .
 
 <urn:mdciii:1603:16:384:3:170101>
@@ -1732,7 +1732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170101" ;
     skos:prefLabel "Bassawa"@fra-Latn ;
-    wdata:q7200235 "CI170101" ;
+    wdata:Q7200235 "CI170101" ;
 .
 
 <urn:mdciii:1603:16:384:3:170102>
@@ -1742,7 +1742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170102" ;
     skos:prefLabel "Bonieredougou"@fra-Latn ;
-    wdata:q7200235 "CI170102" ;
+    wdata:Q7200235 "CI170102" ;
 .
 
 <urn:mdciii:1603:16:384:3:170103>
@@ -1752,7 +1752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170103" ;
     skos:prefLabel "Dabakala"@fra-Latn ;
-    wdata:q7200235 "CI170103" ;
+    wdata:Q7200235 "CI170103" ;
 .
 
 <urn:mdciii:1603:16:384:3:170104>
@@ -1762,7 +1762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170104" ;
     skos:prefLabel "Foumbolo"@fra-Latn ;
-    wdata:q7200235 "CI170104" ;
+    wdata:Q7200235 "CI170104" ;
 .
 
 <urn:mdciii:1603:16:384:3:170105>
@@ -1772,7 +1772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170105" ;
     skos:prefLabel "Niéméné"@fra-Latn ;
-    wdata:q7200235 "CI170105" ;
+    wdata:Q7200235 "CI170105" ;
 .
 
 <urn:mdciii:1603:16:384:3:170106>
@@ -1782,7 +1782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170106" ;
     skos:prefLabel "Satama-Sokoro"@fra-Latn ;
-    wdata:q7200235 "CI170106" ;
+    wdata:Q7200235 "CI170106" ;
 .
 
 <urn:mdciii:1603:16:384:3:170107>
@@ -1792,7 +1792,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170107" ;
     skos:prefLabel "Satama-Sokoura"@fra-Latn ;
-    wdata:q7200235 "CI170107" ;
+    wdata:Q7200235 "CI170107" ;
 .
 
 <urn:mdciii:1603:16:384:3:170108>
@@ -1802,7 +1802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170108" ;
     skos:prefLabel "Sokala-Sobara"@fra-Latn ;
-    wdata:q7200235 "CI170108" ;
+    wdata:Q7200235 "CI170108" ;
 .
 
 <urn:mdciii:1603:16:384:3:170109>
@@ -1812,7 +1812,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170109" ;
     skos:prefLabel "Tendéné-Bambarasso"@fra-Latn ;
-    wdata:q7200235 "CI170109" ;
+    wdata:Q7200235 "CI170109" ;
 .
 
 <urn:mdciii:1603:16:384:3:170110>
@@ -1822,7 +1822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170110" ;
     skos:prefLabel "Yaossédougou"@fra-Latn ;
-    wdata:q7200235 "CI170110" ;
+    wdata:Q7200235 "CI170110" ;
 .
 
 <urn:mdciii:1603:16:384:3:170201>
@@ -1832,7 +1832,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170201" ;
     skos:prefLabel "Katiola"@fra-Latn ;
-    wdata:q7200235 "CI170201" ;
+    wdata:Q7200235 "CI170201" ;
 .
 
 <urn:mdciii:1603:16:384:3:170202>
@@ -1842,7 +1842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170202" ;
     skos:prefLabel "Fronan"@fra-Latn ;
-    wdata:q7200235 "CI170202" ;
+    wdata:Q7200235 "CI170202" ;
 .
 
 <urn:mdciii:1603:16:384:3:170203>
@@ -1852,7 +1852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170203" ;
     skos:prefLabel "Timbé"@fra-Latn ;
-    wdata:q7200235 "CI170203" ;
+    wdata:Q7200235 "CI170203" ;
 .
 
 <urn:mdciii:1603:16:384:3:170301>
@@ -1862,7 +1862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170301" ;
     skos:prefLabel "Niakaramandougou"@fra-Latn ;
-    wdata:q7200235 "CI170301" ;
+    wdata:Q7200235 "CI170301" ;
 .
 
 <urn:mdciii:1603:16:384:3:170302>
@@ -1872,7 +1872,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170302" ;
     skos:prefLabel "Arikokaha"@fra-Latn ;
-    wdata:q7200235 "CI170302" ;
+    wdata:Q7200235 "CI170302" ;
 .
 
 <urn:mdciii:1603:16:384:3:170303>
@@ -1882,7 +1882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170303" ;
     skos:prefLabel "Badikaha"@fra-Latn ;
-    wdata:q7200235 "CI170303" ;
+    wdata:Q7200235 "CI170303" ;
 .
 
 <urn:mdciii:1603:16:384:3:170304>
@@ -1892,7 +1892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170304" ;
     skos:prefLabel "Niédiékaha"@fra-Latn ;
-    wdata:q7200235 "CI170304" ;
+    wdata:Q7200235 "CI170304" ;
 .
 
 <urn:mdciii:1603:16:384:3:170305>
@@ -1902,7 +1902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170305" ;
     skos:prefLabel "Tafiré"@fra-Latn ;
-    wdata:q7200235 "CI170305" ;
+    wdata:Q7200235 "CI170305" ;
 .
 
 <urn:mdciii:1603:16:384:3:170306>
@@ -1912,7 +1912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:170306" ;
     skos:prefLabel "Tortiya"@fra-Latn ;
-    wdata:q7200235 "CI170306" ;
+    wdata:Q7200235 "CI170306" ;
 .
 
 <urn:mdciii:1603:16:384:3:180101>
@@ -1922,7 +1922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180101" ;
     skos:prefLabel "Bédiala"@fra-Latn ;
-    wdata:q7200235 "CI180101" ;
+    wdata:Q7200235 "CI180101" ;
 .
 
 <urn:mdciii:1603:16:384:3:180102>
@@ -1932,7 +1932,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180102" ;
     skos:prefLabel "Daloa"@fra-Latn ;
-    wdata:q7200235 "CI180102" ;
+    wdata:Q7200235 "CI180102" ;
 .
 
 <urn:mdciii:1603:16:384:3:180103>
@@ -1942,7 +1942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180103" ;
     skos:prefLabel "Gadouan"@fra-Latn ;
-    wdata:q7200235 "CI180103" ;
+    wdata:Q7200235 "CI180103" ;
 .
 
 <urn:mdciii:1603:16:384:3:180104>
@@ -1952,7 +1952,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180104" ;
     skos:prefLabel "Gboguhé"@fra-Latn ;
-    wdata:q7200235 "CI180104" ;
+    wdata:Q7200235 "CI180104" ;
 .
 
 <urn:mdciii:1603:16:384:3:180105>
@@ -1962,7 +1962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180105" ;
     skos:prefLabel "Gonaté"@fra-Latn ;
-    wdata:q7200235 "CI180105" ;
+    wdata:Q7200235 "CI180105" ;
 .
 
 <urn:mdciii:1603:16:384:3:180106>
@@ -1972,7 +1972,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180106" ;
     skos:prefLabel "Zaibo"@fra-Latn ;
-    wdata:q7200235 "CI180106" ;
+    wdata:Q7200235 "CI180106" ;
 .
 
 <urn:mdciii:1603:16:384:3:180201>
@@ -1982,7 +1982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180201" ;
     skos:prefLabel "Issia"@fra-Latn ;
-    wdata:q7200235 "CI180201" ;
+    wdata:Q7200235 "CI180201" ;
 .
 
 <urn:mdciii:1603:16:384:3:180202>
@@ -1992,7 +1992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180202" ;
     skos:prefLabel "Boguédia"@fra-Latn ;
-    wdata:q7200235 "CI180202" ;
+    wdata:Q7200235 "CI180202" ;
 .
 
 <urn:mdciii:1603:16:384:3:180203>
@@ -2002,7 +2002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180203" ;
     skos:prefLabel "Iboguhé"@fra-Latn ;
-    wdata:q7200235 "CI180203" ;
+    wdata:Q7200235 "CI180203" ;
 .
 
 <urn:mdciii:1603:16:384:3:180204>
@@ -2012,7 +2012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180204" ;
     skos:prefLabel "Nahio"@fra-Latn ;
-    wdata:q7200235 "CI180204" ;
+    wdata:Q7200235 "CI180204" ;
 .
 
 <urn:mdciii:1603:16:384:3:180205>
@@ -2022,7 +2022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180205" ;
     skos:prefLabel "Namané"@fra-Latn ;
-    wdata:q7200235 "CI180205" ;
+    wdata:Q7200235 "CI180205" ;
 .
 
 <urn:mdciii:1603:16:384:3:180206>
@@ -2032,7 +2032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180206" ;
     skos:prefLabel "Saïoua"@fra-Latn ;
-    wdata:q7200235 "CI180206" ;
+    wdata:Q7200235 "CI180206" ;
 .
 
 <urn:mdciii:1603:16:384:3:180207>
@@ -2042,7 +2042,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180207" ;
     skos:prefLabel "Tapéguia"@fra-Latn ;
-    wdata:q7200235 "CI180207" ;
+    wdata:Q7200235 "CI180207" ;
 .
 
 <urn:mdciii:1603:16:384:3:180301>
@@ -2052,7 +2052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180301" ;
     skos:prefLabel "Vavoua"@fra-Latn ;
-    wdata:q7200235 "CI180301" ;
+    wdata:Q7200235 "CI180301" ;
 .
 
 <urn:mdciii:1603:16:384:3:180302>
@@ -2062,7 +2062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180302" ;
     skos:prefLabel "Bazra-Nattis"@fra-Latn ;
-    wdata:q7200235 "CI180302" ;
+    wdata:Q7200235 "CI180302" ;
 .
 
 <urn:mdciii:1603:16:384:3:180303>
@@ -2072,7 +2072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180303" ;
     skos:prefLabel "Dananon"@fra-Latn ;
-    wdata:q7200235 "CI180303" ;
+    wdata:Q7200235 "CI180303" ;
 .
 
 <urn:mdciii:1603:16:384:3:180304>
@@ -2082,7 +2082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180304" ;
     skos:prefLabel "Dania"@fra-Latn ;
-    wdata:q7200235 "CI180304" ;
+    wdata:Q7200235 "CI180304" ;
 .
 
 <urn:mdciii:1603:16:384:3:180305>
@@ -2092,7 +2092,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180305" ;
     skos:prefLabel "Kétro-Bassam"@fra-Latn ;
-    wdata:q7200235 "CI180305" ;
+    wdata:Q7200235 "CI180305" ;
 .
 
 <urn:mdciii:1603:16:384:3:180306>
@@ -2102,7 +2102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180306" ;
     skos:prefLabel "Seitifla"@fra-Latn ;
-    wdata:q7200235 "CI180306" ;
+    wdata:Q7200235 "CI180306" ;
 .
 
 <urn:mdciii:1603:16:384:3:180401>
@@ -2112,7 +2112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180401" ;
     skos:prefLabel "Zoukougbeu"@fra-Latn ;
-    wdata:q7200235 "CI180401" ;
+    wdata:Q7200235 "CI180401" ;
 .
 
 <urn:mdciii:1603:16:384:3:180402>
@@ -2122,7 +2122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180402" ;
     skos:prefLabel "Domangbeu"@fra-Latn ;
-    wdata:q7200235 "CI180402" ;
+    wdata:Q7200235 "CI180402" ;
 .
 
 <urn:mdciii:1603:16:384:3:180403>
@@ -2132,7 +2132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180403" ;
     skos:prefLabel "Grégbeu"@fra-Latn ;
-    wdata:q7200235 "CI180403" ;
+    wdata:Q7200235 "CI180403" ;
 .
 
 <urn:mdciii:1603:16:384:3:180404>
@@ -2142,7 +2142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:180404" ;
     skos:prefLabel "Guéssabo"@fra-Latn ;
-    wdata:q7200235 "CI180404" ;
+    wdata:Q7200235 "CI180404" ;
 .
 
 <urn:mdciii:1603:16:384:3:190101>
@@ -2152,7 +2152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190101" ;
     skos:prefLabel "Akpassanou"@fra-Latn ;
-    wdata:q7200235 "CI190101" ;
+    wdata:Q7200235 "CI190101" ;
 .
 
 <urn:mdciii:1603:16:384:3:190102>
@@ -2162,7 +2162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190102" ;
     skos:prefLabel "Ananda"@fra-Latn ;
-    wdata:q7200235 "CI190102" ;
+    wdata:Q7200235 "CI190102" ;
 .
 
 <urn:mdciii:1603:16:384:3:190103>
@@ -2172,7 +2172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190103" ;
     skos:prefLabel "Daoukro"@fra-Latn ;
-    wdata:q7200235 "CI190103" ;
+    wdata:Q7200235 "CI190103" ;
 .
 
 <urn:mdciii:1603:16:384:3:190104>
@@ -2182,7 +2182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190104" ;
     skos:prefLabel "Ettrokro"@fra-Latn ;
-    wdata:q7200235 "CI190104" ;
+    wdata:Q7200235 "CI190104" ;
 .
 
 <urn:mdciii:1603:16:384:3:190105>
@@ -2192,7 +2192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190105" ;
     skos:prefLabel "N'Gattakro"@fra-Latn ;
-    wdata:q7200235 "CI190105" ;
+    wdata:Q7200235 "CI190105" ;
 .
 
 <urn:mdciii:1603:16:384:3:190106>
@@ -2202,7 +2202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190106" ;
     skos:prefLabel "Ouellé"@fra-Latn ;
-    wdata:q7200235 "CI190106" ;
+    wdata:Q7200235 "CI190106" ;
 .
 
 <urn:mdciii:1603:16:384:3:190107>
@@ -2212,7 +2212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190107" ;
     skos:prefLabel "Samanza"@fra-Latn ;
-    wdata:q7200235 "CI190107" ;
+    wdata:Q7200235 "CI190107" ;
 .
 
 <urn:mdciii:1603:16:384:3:190201>
@@ -2222,7 +2222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190201" ;
     skos:prefLabel "M'Bahiakro"@fra-Latn ;
-    wdata:q7200235 "CI190201" ;
+    wdata:Q7200235 "CI190201" ;
 .
 
 <urn:mdciii:1603:16:384:3:190202>
@@ -2232,7 +2232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190202" ;
     skos:prefLabel "Bonguéra"@fra-Latn ;
-    wdata:q7200235 "CI190202" ;
+    wdata:Q7200235 "CI190202" ;
 .
 
 <urn:mdciii:1603:16:384:3:190203>
@@ -2242,7 +2242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190203" ;
     skos:prefLabel "Kondossou"@fra-Latn ;
-    wdata:q7200235 "CI190203" ;
+    wdata:Q7200235 "CI190203" ;
 .
 
 <urn:mdciii:1603:16:384:3:190301>
@@ -2252,7 +2252,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190301" ;
     skos:prefLabel "Prikro"@fra-Latn ;
-    wdata:q7200235 "CI190301" ;
+    wdata:Q7200235 "CI190301" ;
 .
 
 <urn:mdciii:1603:16:384:3:190302>
@@ -2262,7 +2262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190302" ;
     skos:prefLabel "Anianou"@fra-Latn ;
-    wdata:q7200235 "CI190302" ;
+    wdata:Q7200235 "CI190302" ;
 .
 
 <urn:mdciii:1603:16:384:3:190303>
@@ -2272,7 +2272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190303" ;
     skos:prefLabel "Famienkro"@fra-Latn ;
-    wdata:q7200235 "CI190303" ;
+    wdata:Q7200235 "CI190303" ;
 .
 
 <urn:mdciii:1603:16:384:3:190304>
@@ -2282,7 +2282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190304" ;
     skos:prefLabel "Koffi-Amonkro"@fra-Latn ;
-    wdata:q7200235 "CI190304" ;
+    wdata:Q7200235 "CI190304" ;
 .
 
 <urn:mdciii:1603:16:384:3:190305>
@@ -2292,7 +2292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:190305" ;
     skos:prefLabel "Nafana"@fra-Latn ;
-    wdata:q7200235 "CI190305" ;
+    wdata:Q7200235 "CI190305" ;
 .
 
 <urn:mdciii:1603:16:384:3:200101>
@@ -2302,7 +2302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200101" ;
     skos:prefLabel "Abengourou"@fra-Latn ;
-    wdata:q7200235 "CI200101" ;
+    wdata:Q7200235 "CI200101" ;
 .
 
 <urn:mdciii:1603:16:384:3:200102>
@@ -2312,7 +2312,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200102" ;
     skos:prefLabel "Amélékia"@fra-Latn ;
-    wdata:q7200235 "CI200102" ;
+    wdata:Q7200235 "CI200102" ;
 .
 
 <urn:mdciii:1603:16:384:3:200103>
@@ -2322,7 +2322,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200103" ;
     skos:prefLabel "Aniassué"@fra-Latn ;
-    wdata:q7200235 "CI200103" ;
+    wdata:Q7200235 "CI200103" ;
 .
 
 <urn:mdciii:1603:16:384:3:200104>
@@ -2332,7 +2332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200104" ;
     skos:prefLabel "Ebilassokro"@fra-Latn ;
-    wdata:q7200235 "CI200104" ;
+    wdata:Q7200235 "CI200104" ;
 .
 
 <urn:mdciii:1603:16:384:3:200105>
@@ -2342,7 +2342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200105" ;
     skos:prefLabel "Niable"@fra-Latn ;
-    wdata:q7200235 "CI200105" ;
+    wdata:Q7200235 "CI200105" ;
 .
 
 <urn:mdciii:1603:16:384:3:200106>
@@ -2352,7 +2352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200106" ;
     skos:prefLabel "Yakasse-Féyassé"@fra-Latn ;
-    wdata:q7200235 "CI200106" ;
+    wdata:Q7200235 "CI200106" ;
 .
 
 <urn:mdciii:1603:16:384:3:200107>
@@ -2362,7 +2362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200107" ;
     skos:prefLabel "Zaranou"@fra-Latn ;
-    wdata:q7200235 "CI200107" ;
+    wdata:Q7200235 "CI200107" ;
 .
 
 <urn:mdciii:1603:16:384:3:200201>
@@ -2372,7 +2372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200201" ;
     skos:prefLabel "Agnibilekrou"@fra-Latn ;
-    wdata:q7200235 "CI200201" ;
+    wdata:Q7200235 "CI200201" ;
 .
 
 <urn:mdciii:1603:16:384:3:200202>
@@ -2382,7 +2382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200202" ;
     skos:prefLabel "Akoboissué"@fra-Latn ;
-    wdata:q7200235 "CI200202" ;
+    wdata:Q7200235 "CI200202" ;
 .
 
 <urn:mdciii:1603:16:384:3:200203>
@@ -2392,7 +2392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200203" ;
     skos:prefLabel "Damé"@fra-Latn ;
-    wdata:q7200235 "CI200203" ;
+    wdata:Q7200235 "CI200203" ;
 .
 
 <urn:mdciii:1603:16:384:3:200204>
@@ -2402,7 +2402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200204" ;
     skos:prefLabel "Duffrebo"@fra-Latn ;
-    wdata:q7200235 "CI200204" ;
+    wdata:Q7200235 "CI200204" ;
 .
 
 <urn:mdciii:1603:16:384:3:200205>
@@ -2412,7 +2412,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200205" ;
     skos:prefLabel "Tanguélan"@fra-Latn ;
-    wdata:q7200235 "CI200205" ;
+    wdata:Q7200235 "CI200205" ;
 .
 
 <urn:mdciii:1603:16:384:3:200301>
@@ -2422,7 +2422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200301" ;
     skos:prefLabel "Bettié"@fra-Latn ;
-    wdata:q7200235 "CI200301" ;
+    wdata:Q7200235 "CI200301" ;
 .
 
 <urn:mdciii:1603:16:384:3:200302>
@@ -2432,7 +2432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:200302" ;
     skos:prefLabel "Diamarakro"@fra-Latn ;
-    wdata:q7200235 "CI200302" ;
+    wdata:Q7200235 "CI200302" ;
 .
 
 <urn:mdciii:1603:16:384:3:20101>
@@ -2442,7 +2442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:20101" ;
     skos:prefLabel "Attiégouakro"@fra-Latn ;
-    wdata:q7200235 "CI020101" ;
+    wdata:Q7200235 "CI020101" ;
 .
 
 <urn:mdciii:1603:16:384:3:20102>
@@ -2452,7 +2452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:20102" ;
     skos:prefLabel "Lolobo"@fra-Latn ;
-    wdata:q7200235 "CI020102" ;
+    wdata:Q7200235 "CI020102" ;
 .
 
 <urn:mdciii:1603:16:384:3:20201>
@@ -2462,7 +2462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:20201" ;
     skos:prefLabel "Yamoussoukro"@fra-Latn ;
-    wdata:q7200235 "CI020201" ;
+    wdata:Q7200235 "CI020201" ;
 .
 
 <urn:mdciii:1603:16:384:3:20202>
@@ -2472,7 +2472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:20202" ;
     skos:prefLabel "Kossou"@fra-Latn ;
-    wdata:q7200235 "CI020202" ;
+    wdata:Q7200235 "CI020202" ;
 .
 
 <urn:mdciii:1603:16:384:3:210101>
@@ -2482,7 +2482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210101" ;
     skos:prefLabel "Gbéléban"@fra-Latn ;
-    wdata:q7200235 "CI210101" ;
+    wdata:Q7200235 "CI210101" ;
 .
 
 <urn:mdciii:1603:16:384:3:210102>
@@ -2492,7 +2492,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210102" ;
     skos:prefLabel "Samango"@fra-Latn ;
-    wdata:q7200235 "CI210102" ;
+    wdata:Q7200235 "CI210102" ;
 .
 
 <urn:mdciii:1603:16:384:3:210103>
@@ -2502,7 +2502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210103" ;
     skos:prefLabel "Seydougou"@fra-Latn ;
-    wdata:q7200235 "CI210103" ;
+    wdata:Q7200235 "CI210103" ;
 .
 
 <urn:mdciii:1603:16:384:3:210201>
@@ -2512,7 +2512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210201" ;
     skos:prefLabel "Madinani"@fra-Latn ;
-    wdata:q7200235 "CI210201" ;
+    wdata:Q7200235 "CI210201" ;
 .
 
 <urn:mdciii:1603:16:384:3:210202>
@@ -2522,7 +2522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210202" ;
     skos:prefLabel "Fengolo"@fra-Latn ;
-    wdata:q7200235 "CI210202" ;
+    wdata:Q7200235 "CI210202" ;
 .
 
 <urn:mdciii:1603:16:384:3:210203>
@@ -2532,7 +2532,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210203" ;
     skos:prefLabel "N'Goloblasso"@fra-Latn ;
-    wdata:q7200235 "CI210203" ;
+    wdata:Q7200235 "CI210203" ;
 .
 
 <urn:mdciii:1603:16:384:3:210301>
@@ -2542,7 +2542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210301" ;
     skos:prefLabel "Odienné"@fra-Latn ;
-    wdata:q7200235 "CI210301" ;
+    wdata:Q7200235 "CI210301" ;
 .
 
 <urn:mdciii:1603:16:384:3:210302>
@@ -2552,7 +2552,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210302" ;
     skos:prefLabel "Bako"@fra-Latn ;
-    wdata:q7200235 "CI210302" ;
+    wdata:Q7200235 "CI210302" ;
 .
 
 <urn:mdciii:1603:16:384:3:210303>
@@ -2562,7 +2562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210303" ;
     skos:prefLabel "Bougousso"@fra-Latn ;
-    wdata:q7200235 "CI210303" ;
+    wdata:Q7200235 "CI210303" ;
 .
 
 <urn:mdciii:1603:16:384:3:210304>
@@ -2572,7 +2572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210304" ;
     skos:prefLabel "Dioulatiedougou"@fra-Latn ;
-    wdata:q7200235 "CI210304" ;
+    wdata:Q7200235 "CI210304" ;
 .
 
 <urn:mdciii:1603:16:384:3:210305>
@@ -2582,7 +2582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210305" ;
     skos:prefLabel "Tiémé"@fra-Latn ;
-    wdata:q7200235 "CI210305" ;
+    wdata:Q7200235 "CI210305" ;
 .
 
 <urn:mdciii:1603:16:384:3:210401>
@@ -2592,7 +2592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210401" ;
     skos:prefLabel "Samatiguila"@fra-Latn ;
-    wdata:q7200235 "CI210401" ;
+    wdata:Q7200235 "CI210401" ;
 .
 
 <urn:mdciii:1603:16:384:3:210402>
@@ -2602,7 +2602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210402" ;
     skos:prefLabel "Kimbirila Sud"@fra-Latn ;
-    wdata:q7200235 "CI210402" ;
+    wdata:Q7200235 "CI210402" ;
 .
 
 <urn:mdciii:1603:16:384:3:210501>
@@ -2612,7 +2612,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210501" ;
     skos:prefLabel "Séguélon"@fra-Latn ;
-    wdata:q7200235 "CI210501" ;
+    wdata:Q7200235 "CI210501" ;
 .
 
 <urn:mdciii:1603:16:384:3:210502>
@@ -2622,7 +2622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:210502" ;
     skos:prefLabel "Gbongaha"@fra-Latn ;
-    wdata:q7200235 "CI210502" ;
+    wdata:Q7200235 "CI210502" ;
 .
 
 <urn:mdciii:1603:16:384:3:220101>
@@ -2632,7 +2632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220101" ;
     skos:prefLabel "Chiépo"@fra-Latn ;
-    wdata:q7200235 "CI220101" ;
+    wdata:Q7200235 "CI220101" ;
 .
 
 <urn:mdciii:1603:16:384:3:220102>
@@ -2642,7 +2642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220102" ;
     skos:prefLabel "Didoko"@fra-Latn ;
-    wdata:q7200235 "CI220102" ;
+    wdata:Q7200235 "CI220102" ;
 .
 
 <urn:mdciii:1603:16:384:3:220103>
@@ -2652,7 +2652,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220103" ;
     skos:prefLabel "Divo"@fra-Latn ;
-    wdata:q7200235 "CI220103" ;
+    wdata:Q7200235 "CI220103" ;
 .
 
 <urn:mdciii:1603:16:384:3:220104>
@@ -2662,7 +2662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220104" ;
     skos:prefLabel "Hiré"@fra-Latn ;
-    wdata:q7200235 "CI220104" ;
+    wdata:Q7200235 "CI220104" ;
 .
 
 <urn:mdciii:1603:16:384:3:220105>
@@ -2672,7 +2672,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220105" ;
     skos:prefLabel "Nébo"@fra-Latn ;
-    wdata:q7200235 "CI220105" ;
+    wdata:Q7200235 "CI220105" ;
 .
 
 <urn:mdciii:1603:16:384:3:220106>
@@ -2682,7 +2682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220106" ;
     skos:prefLabel "Ogoudou"@fra-Latn ;
-    wdata:q7200235 "CI220106" ;
+    wdata:Q7200235 "CI220106" ;
 .
 
 <urn:mdciii:1603:16:384:3:220107>
@@ -2692,7 +2692,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220107" ;
     skos:prefLabel "Zégo"@fra-Latn ;
-    wdata:q7200235 "CI220107" ;
+    wdata:Q7200235 "CI220107" ;
 .
 
 <urn:mdciii:1603:16:384:3:220201>
@@ -2702,7 +2702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220201" ;
     skos:prefLabel "Guitry"@fra-Latn ;
-    wdata:q7200235 "CI220201" ;
+    wdata:Q7200235 "CI220201" ;
 .
 
 <urn:mdciii:1603:16:384:3:220202>
@@ -2712,7 +2712,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220202" ;
     skos:prefLabel "Dairo Didizo"@fra-Latn ;
-    wdata:q7200235 "CI220202" ;
+    wdata:Q7200235 "CI220202" ;
 .
 
 <urn:mdciii:1603:16:384:3:220203>
@@ -2722,7 +2722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220203" ;
     skos:prefLabel "Lauzoua"@fra-Latn ;
-    wdata:q7200235 "CI220203" ;
+    wdata:Q7200235 "CI220203" ;
 .
 
 <urn:mdciii:1603:16:384:3:220204>
@@ -2732,7 +2732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220204" ;
     skos:prefLabel "Yocoboué"@fra-Latn ;
-    wdata:q7200235 "CI220204" ;
+    wdata:Q7200235 "CI220204" ;
 .
 
 <urn:mdciii:1603:16:384:3:220301>
@@ -2742,7 +2742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220301" ;
     skos:prefLabel "Lakota"@fra-Latn ;
-    wdata:q7200235 "CI220301" ;
+    wdata:Q7200235 "CI220301" ;
 .
 
 <urn:mdciii:1603:16:384:3:220302>
@@ -2752,7 +2752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220302" ;
     skos:prefLabel "Djidji"@fra-Latn ;
-    wdata:q7200235 "CI220302" ;
+    wdata:Q7200235 "CI220302" ;
 .
 
 <urn:mdciii:1603:16:384:3:220303>
@@ -2762,7 +2762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220303" ;
     skos:prefLabel "Goudouko"@fra-Latn ;
-    wdata:q7200235 "CI220303" ;
+    wdata:Q7200235 "CI220303" ;
 .
 
 <urn:mdciii:1603:16:384:3:220304>
@@ -2772,7 +2772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220304" ;
     skos:prefLabel "Kadéko"@fra-Latn ;
-    wdata:q7200235 "CI220304" ;
+    wdata:Q7200235 "CI220304" ;
 .
 
 <urn:mdciii:1603:16:384:3:220305>
@@ -2782,7 +2782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220305" ;
     skos:prefLabel "Niambézaria"@fra-Latn ;
-    wdata:q7200235 "CI220305" ;
+    wdata:Q7200235 "CI220305" ;
 .
 
 <urn:mdciii:1603:16:384:3:220306>
@@ -2792,7 +2792,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:220306" ;
     skos:prefLabel "Zikisso"@fra-Latn ;
-    wdata:q7200235 "CI220306" ;
+    wdata:Q7200235 "CI220306" ;
 .
 
 <urn:mdciii:1603:16:384:3:230101>
@@ -2802,7 +2802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230101" ;
     skos:prefLabel "Bégbéssou"@fra-Latn ;
-    wdata:q7200235 "CI230101" ;
+    wdata:Q7200235 "CI230101" ;
 .
 
 <urn:mdciii:1603:16:384:3:230102>
@@ -2812,7 +2812,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230102" ;
     skos:prefLabel "Bonon"@fra-Latn ;
-    wdata:q7200235 "CI230102" ;
+    wdata:Q7200235 "CI230102" ;
 .
 
 <urn:mdciii:1603:16:384:3:230103>
@@ -2822,7 +2822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230103" ;
     skos:prefLabel "Bouaflé"@fra-Latn ;
-    wdata:q7200235 "CI230103" ;
+    wdata:Q7200235 "CI230103" ;
 .
 
 <urn:mdciii:1603:16:384:3:230104>
@@ -2832,7 +2832,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230104" ;
     skos:prefLabel "N'Douffoukankro"@fra-Latn ;
-    wdata:q7200235 "CI230104" ;
+    wdata:Q7200235 "CI230104" ;
 .
 
 <urn:mdciii:1603:16:384:3:230105>
@@ -2842,7 +2842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230105" ;
     skos:prefLabel "Pakouabo"@fra-Latn ;
-    wdata:q7200235 "CI230105" ;
+    wdata:Q7200235 "CI230105" ;
 .
 
 <urn:mdciii:1603:16:384:3:230106>
@@ -2852,7 +2852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230106" ;
     skos:prefLabel "Tibéita"@fra-Latn ;
-    wdata:q7200235 "CI230106" ;
+    wdata:Q7200235 "CI230106" ;
 .
 
 <urn:mdciii:1603:16:384:3:230107>
@@ -2862,7 +2862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230107" ;
     skos:prefLabel "Zaguiéta"@fra-Latn ;
-    wdata:q7200235 "CI230107" ;
+    wdata:Q7200235 "CI230107" ;
 .
 
 <urn:mdciii:1603:16:384:3:230201>
@@ -2872,7 +2872,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230201" ;
     skos:prefLabel "Sinfra"@fra-Latn ;
-    wdata:q7200235 "CI230201" ;
+    wdata:Q7200235 "CI230201" ;
 .
 
 <urn:mdciii:1603:16:384:3:230202>
@@ -2882,7 +2882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230202" ;
     skos:prefLabel "Bazré"@fra-Latn ;
-    wdata:q7200235 "CI230202" ;
+    wdata:Q7200235 "CI230202" ;
 .
 
 <urn:mdciii:1603:16:384:3:230203>
@@ -2892,7 +2892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230203" ;
     skos:prefLabel "Kononfla"@fra-Latn ;
-    wdata:q7200235 "CI230203" ;
+    wdata:Q7200235 "CI230203" ;
 .
 
 <urn:mdciii:1603:16:384:3:230204>
@@ -2902,7 +2902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230204" ;
     skos:prefLabel "Kouétinfla"@fra-Latn ;
-    wdata:q7200235 "CI230204" ;
+    wdata:Q7200235 "CI230204" ;
 .
 
 <urn:mdciii:1603:16:384:3:230301>
@@ -2912,7 +2912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230301" ;
     skos:prefLabel "Zuénoula"@fra-Latn ;
-    wdata:q7200235 "CI230301" ;
+    wdata:Q7200235 "CI230301" ;
 .
 
 <urn:mdciii:1603:16:384:3:230302>
@@ -2922,7 +2922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230302" ;
     skos:prefLabel "Gohitafla"@fra-Latn ;
-    wdata:q7200235 "CI230302" ;
+    wdata:Q7200235 "CI230302" ;
 .
 
 <urn:mdciii:1603:16:384:3:230303>
@@ -2932,7 +2932,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230303" ;
     skos:prefLabel "Iriéfla"@fra-Latn ;
-    wdata:q7200235 "CI230303" ;
+    wdata:Q7200235 "CI230303" ;
 .
 
 <urn:mdciii:1603:16:384:3:230304>
@@ -2942,7 +2942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230304" ;
     skos:prefLabel "Kanzra"@fra-Latn ;
-    wdata:q7200235 "CI230304" ;
+    wdata:Q7200235 "CI230304" ;
 .
 
 <urn:mdciii:1603:16:384:3:230305>
@@ -2952,7 +2952,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230305" ;
     skos:prefLabel "Maminigui"@fra-Latn ;
-    wdata:q7200235 "CI230305" ;
+    wdata:Q7200235 "CI230305" ;
 .
 
 <urn:mdciii:1603:16:384:3:230306>
@@ -2962,7 +2962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230306" ;
     skos:prefLabel "Voueboufla"@fra-Latn ;
-    wdata:q7200235 "CI230306" ;
+    wdata:Q7200235 "CI230306" ;
 .
 
 <urn:mdciii:1603:16:384:3:230307>
@@ -2972,7 +2972,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:230307" ;
     skos:prefLabel "Zanzra"@fra-Latn ;
-    wdata:q7200235 "CI230307" ;
+    wdata:Q7200235 "CI230307" ;
 .
 
 <urn:mdciii:1603:16:384:3:240101>
@@ -2982,7 +2982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240101" ;
     skos:prefLabel "Adzopé"@fra-Latn ;
-    wdata:q7200235 "CI240101" ;
+    wdata:Q7200235 "CI240101" ;
 .
 
 <urn:mdciii:1603:16:384:3:240102>
@@ -2992,7 +2992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240102" ;
     skos:prefLabel "Agou"@fra-Latn ;
-    wdata:q7200235 "CI240102" ;
+    wdata:Q7200235 "CI240102" ;
 .
 
 <urn:mdciii:1603:16:384:3:240103>
@@ -3002,7 +3002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240103" ;
     skos:prefLabel "Annepé"@fra-Latn ;
-    wdata:q7200235 "CI240103" ;
+    wdata:Q7200235 "CI240103" ;
 .
 
 <urn:mdciii:1603:16:384:3:240104>
@@ -3012,7 +3012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240104" ;
     skos:prefLabel "Assikoi"@fra-Latn ;
-    wdata:q7200235 "CI240104" ;
+    wdata:Q7200235 "CI240104" ;
 .
 
 <urn:mdciii:1603:16:384:3:240105>
@@ -3022,7 +3022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240105" ;
     skos:prefLabel "Bécédi-Brignan"@fra-Latn ;
-    wdata:q7200235 "CI240105" ;
+    wdata:Q7200235 "CI240105" ;
 .
 
 <urn:mdciii:1603:16:384:3:240106>
@@ -3032,7 +3032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240106" ;
     skos:prefLabel "Yakassé-Mé"@fra-Latn ;
-    wdata:q7200235 "CI240106" ;
+    wdata:Q7200235 "CI240106" ;
 .
 
 <urn:mdciii:1603:16:384:3:240201>
@@ -3042,7 +3042,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240201" ;
     skos:prefLabel "Afféry"@fra-Latn ;
-    wdata:q7200235 "CI240201" ;
+    wdata:Q7200235 "CI240201" ;
 .
 
 <urn:mdciii:1603:16:384:3:240202>
@@ -3052,7 +3052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240202" ;
     skos:prefLabel "Akoupé"@fra-Latn ;
-    wdata:q7200235 "CI240202" ;
+    wdata:Q7200235 "CI240202" ;
 .
 
 <urn:mdciii:1603:16:384:3:240203>
@@ -3062,7 +3062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240203" ;
     skos:prefLabel "Bécouéfin"@fra-Latn ;
-    wdata:q7200235 "CI240203" ;
+    wdata:Q7200235 "CI240203" ;
 .
 
 <urn:mdciii:1603:16:384:3:240301>
@@ -3072,7 +3072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240301" ;
     skos:prefLabel "Aboisso-Comoé"@fra-Latn ;
-    wdata:q7200235 "CI240301" ;
+    wdata:Q7200235 "CI240301" ;
 .
 
 <urn:mdciii:1603:16:384:3:240302>
@@ -3082,7 +3082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240302" ;
     skos:prefLabel "Alépé"@fra-Latn ;
-    wdata:q7200235 "CI240302" ;
+    wdata:Q7200235 "CI240302" ;
 .
 
 <urn:mdciii:1603:16:384:3:240303>
@@ -3092,7 +3092,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240303" ;
     skos:prefLabel "Allosso"@fra-Latn ;
-    wdata:q7200235 "CI240303" ;
+    wdata:Q7200235 "CI240303" ;
 .
 
 <urn:mdciii:1603:16:384:3:240304>
@@ -3102,7 +3102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240304" ;
     skos:prefLabel "Danguira"@fra-Latn ;
-    wdata:q7200235 "CI240304" ;
+    wdata:Q7200235 "CI240304" ;
 .
 
 <urn:mdciii:1603:16:384:3:240305>
@@ -3112,7 +3112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240305" ;
     skos:prefLabel "Oghlwapo"@fra-Latn ;
-    wdata:q7200235 "CI240305" ;
+    wdata:Q7200235 "CI240305" ;
 .
 
 <urn:mdciii:1603:16:384:3:240401>
@@ -3122,7 +3122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240401" ;
     skos:prefLabel "Yakasse-Attobrou"@fra-Latn ;
-    wdata:q7200235 "CI240401" ;
+    wdata:Q7200235 "CI240401" ;
 .
 
 <urn:mdciii:1603:16:384:3:240402>
@@ -3132,7 +3132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240402" ;
     skos:prefLabel "Abongoua"@fra-Latn ;
-    wdata:q7200235 "CI240402" ;
+    wdata:Q7200235 "CI240402" ;
 .
 
 <urn:mdciii:1603:16:384:3:240403>
@@ -3142,7 +3142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:240403" ;
     skos:prefLabel "Biéby"@fra-Latn ;
-    wdata:q7200235 "CI240403" ;
+    wdata:Q7200235 "CI240403" ;
 .
 
 <urn:mdciii:1603:16:384:3:250101>
@@ -3152,7 +3152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250101" ;
     skos:prefLabel "Arrah"@fra-Latn ;
-    wdata:q7200235 "CI250101" ;
+    wdata:Q7200235 "CI250101" ;
 .
 
 <urn:mdciii:1603:16:384:3:250102>
@@ -3162,7 +3162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250102" ;
     skos:prefLabel "Kotobi"@fra-Latn ;
-    wdata:q7200235 "CI250102" ;
+    wdata:Q7200235 "CI250102" ;
 .
 
 <urn:mdciii:1603:16:384:3:250103>
@@ -3172,7 +3172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250103" ;
     skos:prefLabel "Krégbé"@fra-Latn ;
-    wdata:q7200235 "CI250103" ;
+    wdata:Q7200235 "CI250103" ;
 .
 
 <urn:mdciii:1603:16:384:3:250201>
@@ -3182,7 +3182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250201" ;
     skos:prefLabel "Andé"@fra-Latn ;
-    wdata:q7200235 "CI250201" ;
+    wdata:Q7200235 "CI250201" ;
 .
 
 <urn:mdciii:1603:16:384:3:250202>
@@ -3192,7 +3192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250202" ;
     skos:prefLabel "Assié-Koumassi"@fra-Latn ;
-    wdata:q7200235 "CI250202" ;
+    wdata:Q7200235 "CI250202" ;
 .
 
 <urn:mdciii:1603:16:384:3:250203>
@@ -3202,7 +3202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250203" ;
     skos:prefLabel "Bongouanou"@fra-Latn ;
-    wdata:q7200235 "CI250203" ;
+    wdata:Q7200235 "CI250203" ;
 .
 
 <urn:mdciii:1603:16:384:3:250204>
@@ -3212,7 +3212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250204" ;
     skos:prefLabel "N'Guessankro"@fra-Latn ;
-    wdata:q7200235 "CI250204" ;
+    wdata:Q7200235 "CI250204" ;
 .
 
 <urn:mdciii:1603:16:384:3:250301>
@@ -3222,7 +3222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250301" ;
     skos:prefLabel "M'Batto"@fra-Latn ;
-    wdata:q7200235 "CI250301" ;
+    wdata:Q7200235 "CI250301" ;
 .
 
 <urn:mdciii:1603:16:384:3:250302>
@@ -3232,7 +3232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250302" ;
     skos:prefLabel "Anoumaba"@fra-Latn ;
-    wdata:q7200235 "CI250302" ;
+    wdata:Q7200235 "CI250302" ;
 .
 
 <urn:mdciii:1603:16:384:3:250303>
@@ -3242,7 +3242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250303" ;
     skos:prefLabel "Assahara"@fra-Latn ;
-    wdata:q7200235 "CI250303" ;
+    wdata:Q7200235 "CI250303" ;
 .
 
 <urn:mdciii:1603:16:384:3:250304>
@@ -3252,7 +3252,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:250304" ;
     skos:prefLabel "Tiémélékro"@fra-Latn ;
-    wdata:q7200235 "CI250304" ;
+    wdata:Q7200235 "CI250304" ;
 .
 
 <urn:mdciii:1603:16:384:3:260101>
@@ -3262,7 +3262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260101" ;
     skos:prefLabel "Buyo"@fra-Latn ;
-    wdata:q7200235 "CI260101" ;
+    wdata:Q7200235 "CI260101" ;
 .
 
 <urn:mdciii:1603:16:384:3:260102>
@@ -3272,7 +3272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260102" ;
     skos:prefLabel "Dapéoua"@fra-Latn ;
-    wdata:q7200235 "CI260102" ;
+    wdata:Q7200235 "CI260102" ;
 .
 
 <urn:mdciii:1603:16:384:3:260201>
@@ -3282,7 +3282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260201" ;
     skos:prefLabel "Guéyo"@fra-Latn ;
-    wdata:q7200235 "CI260201" ;
+    wdata:Q7200235 "CI260201" ;
 .
 
 <urn:mdciii:1603:16:384:3:260202>
@@ -3292,7 +3292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260202" ;
     skos:prefLabel "Dabouyo"@fra-Latn ;
-    wdata:q7200235 "CI260202" ;
+    wdata:Q7200235 "CI260202" ;
 .
 
 <urn:mdciii:1603:16:384:3:260301>
@@ -3302,7 +3302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260301" ;
     skos:prefLabel "Méagui"@fra-Latn ;
-    wdata:q7200235 "CI260301" ;
+    wdata:Q7200235 "CI260301" ;
 .
 
 <urn:mdciii:1603:16:384:3:260302>
@@ -3312,7 +3312,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260302" ;
     skos:prefLabel "Oupoyo"@fra-Latn ;
-    wdata:q7200235 "CI260302" ;
+    wdata:Q7200235 "CI260302" ;
 .
 
 <urn:mdciii:1603:16:384:3:260401>
@@ -3322,7 +3322,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260401" ;
     skos:prefLabel "Soubre"@fra-Latn ;
-    wdata:q7200235 "CI260401" ;
+    wdata:Q7200235 "CI260401" ;
 .
 
 <urn:mdciii:1603:16:384:3:260402>
@@ -3332,7 +3332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260402" ;
     skos:prefLabel "Gnanmangui"@fra-Latn ;
-    wdata:q7200235 "CI260402" ;
+    wdata:Q7200235 "CI260402" ;
 .
 
 <urn:mdciii:1603:16:384:3:260403>
@@ -3342,7 +3342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260403" ;
     skos:prefLabel "Grand-Zatry"@fra-Latn ;
-    wdata:q7200235 "CI260403" ;
+    wdata:Q7200235 "CI260403" ;
 .
 
 <urn:mdciii:1603:16:384:3:260404>
@@ -3352,7 +3352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260404" ;
     skos:prefLabel "Liliyo"@fra-Latn ;
-    wdata:q7200235 "CI260404" ;
+    wdata:Q7200235 "CI260404" ;
 .
 
 <urn:mdciii:1603:16:384:3:260405>
@@ -3362,7 +3362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:260405" ;
     skos:prefLabel "Okrouyo"@fra-Latn ;
-    wdata:q7200235 "CI260405" ;
+    wdata:Q7200235 "CI260405" ;
 .
 
 <urn:mdciii:1603:16:384:3:270101>
@@ -3372,7 +3372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270101" ;
     skos:prefLabel "Bengassou"@fra-Latn ;
-    wdata:q7200235 "CI270101" ;
+    wdata:Q7200235 "CI270101" ;
 .
 
 <urn:mdciii:1603:16:384:3:270102>
@@ -3382,7 +3382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270102" ;
     skos:prefLabel "Bocanda"@fra-Latn ;
-    wdata:q7200235 "CI270102" ;
+    wdata:Q7200235 "CI270102" ;
 .
 
 <urn:mdciii:1603:16:384:3:270103>
@@ -3392,7 +3392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270103" ;
     skos:prefLabel "Kouadioblékro"@fra-Latn ;
-    wdata:q7200235 "CI270103" ;
+    wdata:Q7200235 "CI270103" ;
 .
 
 <urn:mdciii:1603:16:384:3:270104>
@@ -3402,7 +3402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270104" ;
     skos:prefLabel "N'Zécrezessou"@fra-Latn ;
-    wdata:q7200235 "CI270104" ;
+    wdata:Q7200235 "CI270104" ;
 .
 
 <urn:mdciii:1603:16:384:3:270201>
@@ -3412,7 +3412,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270201" ;
     skos:prefLabel "Abigui"@fra-Latn ;
-    wdata:q7200235 "CI270201" ;
+    wdata:Q7200235 "CI270201" ;
 .
 
 <urn:mdciii:1603:16:384:3:270202>
@@ -3422,7 +3422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270202" ;
     skos:prefLabel "Diangokro"@fra-Latn ;
-    wdata:q7200235 "CI270202" ;
+    wdata:Q7200235 "CI270202" ;
 .
 
 <urn:mdciii:1603:16:384:3:270203>
@@ -3432,7 +3432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270203" ;
     skos:prefLabel "Dimbokro"@fra-Latn ;
-    wdata:q7200235 "CI270203" ;
+    wdata:Q7200235 "CI270203" ;
 .
 
 <urn:mdciii:1603:16:384:3:270204>
@@ -3442,7 +3442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270204" ;
     skos:prefLabel "Nofou"@fra-Latn ;
-    wdata:q7200235 "CI270204" ;
+    wdata:Q7200235 "CI270204" ;
 .
 
 <urn:mdciii:1603:16:384:3:270301>
@@ -3452,7 +3452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270301" ;
     skos:prefLabel "Kouassi-Kouassikro"@fra-Latn ;
-    wdata:q7200235 "CI270301" ;
+    wdata:Q7200235 "CI270301" ;
 .
 
 <urn:mdciii:1603:16:384:3:270302>
@@ -3462,7 +3462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:270302" ;
     skos:prefLabel "Mékro"@fra-Latn ;
-    wdata:q7200235 "CI270302" ;
+    wdata:Q7200235 "CI270302" ;
 .
 
 <urn:mdciii:1603:16:384:3:280101>
@@ -3472,7 +3472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280101" ;
     skos:prefLabel "Boron"@fra-Latn ;
-    wdata:q7200235 "CI280101" ;
+    wdata:Q7200235 "CI280101" ;
 .
 
 <urn:mdciii:1603:16:384:3:280102>
@@ -3482,7 +3482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280102" ;
     skos:prefLabel "Dikodougou"@fra-Latn ;
-    wdata:q7200235 "CI280102" ;
+    wdata:Q7200235 "CI280102" ;
 .
 
 <urn:mdciii:1603:16:384:3:280103>
@@ -3492,7 +3492,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280103" ;
     skos:prefLabel "Guiembé"@fra-Latn ;
-    wdata:q7200235 "CI280103" ;
+    wdata:Q7200235 "CI280103" ;
 .
 
 <urn:mdciii:1603:16:384:3:280201>
@@ -3502,7 +3502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280201" ;
     skos:prefLabel "Korhogo"@fra-Latn ;
-    wdata:q7200235 "CI280201" ;
+    wdata:Q7200235 "CI280201" ;
 .
 
 <urn:mdciii:1603:16:384:3:280202>
@@ -3512,7 +3512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280202" ;
     skos:prefLabel "Dassoungboho"@fra-Latn ;
-    wdata:q7200235 "CI280202" ;
+    wdata:Q7200235 "CI280202" ;
 .
 
 <urn:mdciii:1603:16:384:3:280203>
@@ -3522,7 +3522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280203" ;
     skos:prefLabel "Kanoroba"@fra-Latn ;
-    wdata:q7200235 "CI280203" ;
+    wdata:Q7200235 "CI280203" ;
 .
 
 <urn:mdciii:1603:16:384:3:280204>
@@ -3532,7 +3532,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280204" ;
     skos:prefLabel "Karakoro"@fra-Latn ;
-    wdata:q7200235 "CI280204" ;
+    wdata:Q7200235 "CI280204" ;
 .
 
 <urn:mdciii:1603:16:384:3:280205>
@@ -3542,7 +3542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280205" ;
     skos:prefLabel "Kiémou"@fra-Latn ;
-    wdata:q7200235 "CI280205" ;
+    wdata:Q7200235 "CI280205" ;
 .
 
 <urn:mdciii:1603:16:384:3:280206>
@@ -3552,7 +3552,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280206" ;
     skos:prefLabel "Kombolokoura"@fra-Latn ;
-    wdata:q7200235 "CI280206" ;
+    wdata:Q7200235 "CI280206" ;
 .
 
 <urn:mdciii:1603:16:384:3:280207>
@@ -3562,7 +3562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280207" ;
     skos:prefLabel "Komborodougou"@fra-Latn ;
-    wdata:q7200235 "CI280207" ;
+    wdata:Q7200235 "CI280207" ;
 .
 
 <urn:mdciii:1603:16:384:3:280208>
@@ -3572,7 +3572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280208" ;
     skos:prefLabel "Koni"@fra-Latn ;
-    wdata:q7200235 "CI280208" ;
+    wdata:Q7200235 "CI280208" ;
 .
 
 <urn:mdciii:1603:16:384:3:280209>
@@ -3582,7 +3582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280209" ;
     skos:prefLabel "Lataha"@fra-Latn ;
-    wdata:q7200235 "CI280209" ;
+    wdata:Q7200235 "CI280209" ;
 .
 
 <urn:mdciii:1603:16:384:3:280210>
@@ -3592,7 +3592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280210" ;
     skos:prefLabel "N'Ganon"@fra-Latn ;
-    wdata:q7200235 "CI280210" ;
+    wdata:Q7200235 "CI280210" ;
 .
 
 <urn:mdciii:1603:16:384:3:280211>
@@ -3602,7 +3602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280211" ;
     skos:prefLabel "Nafoun"@fra-Latn ;
-    wdata:q7200235 "CI280211" ;
+    wdata:Q7200235 "CI280211" ;
 .
 
 <urn:mdciii:1603:16:384:3:280212>
@@ -3612,7 +3612,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280212" ;
     skos:prefLabel "Napiéléodougou"@fra-Latn ;
-    wdata:q7200235 "CI280212" ;
+    wdata:Q7200235 "CI280212" ;
 .
 
 <urn:mdciii:1603:16:384:3:280213>
@@ -3622,7 +3622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280213" ;
     skos:prefLabel "Niofoin"@fra-Latn ;
-    wdata:q7200235 "CI280213" ;
+    wdata:Q7200235 "CI280213" ;
 .
 
 <urn:mdciii:1603:16:384:3:280214>
@@ -3632,7 +3632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280214" ;
     skos:prefLabel "Sirasso"@fra-Latn ;
-    wdata:q7200235 "CI280214" ;
+    wdata:Q7200235 "CI280214" ;
 .
 
 <urn:mdciii:1603:16:384:3:280215>
@@ -3642,7 +3642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280215" ;
     skos:prefLabel "Sohouo"@fra-Latn ;
-    wdata:q7200235 "CI280215" ;
+    wdata:Q7200235 "CI280215" ;
 .
 
 <urn:mdciii:1603:16:384:3:280216>
@@ -3652,7 +3652,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280216" ;
     skos:prefLabel "Tioroniaradougou"@fra-Latn ;
-    wdata:q7200235 "CI280216" ;
+    wdata:Q7200235 "CI280216" ;
 .
 
 <urn:mdciii:1603:16:384:3:280301>
@@ -3662,7 +3662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280301" ;
     skos:prefLabel "M'Bengué"@fra-Latn ;
-    wdata:q7200235 "CI280301" ;
+    wdata:Q7200235 "CI280301" ;
 .
 
 <urn:mdciii:1603:16:384:3:280302>
@@ -3672,7 +3672,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280302" ;
     skos:prefLabel "Bougou"@fra-Latn ;
-    wdata:q7200235 "CI280302" ;
+    wdata:Q7200235 "CI280302" ;
 .
 
 <urn:mdciii:1603:16:384:3:280303>
@@ -3682,7 +3682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280303" ;
     skos:prefLabel "Katiali"@fra-Latn ;
-    wdata:q7200235 "CI280303" ;
+    wdata:Q7200235 "CI280303" ;
 .
 
 <urn:mdciii:1603:16:384:3:280304>
@@ -3692,7 +3692,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280304" ;
     skos:prefLabel "Katogo"@fra-Latn ;
-    wdata:q7200235 "CI280304" ;
+    wdata:Q7200235 "CI280304" ;
 .
 
 <urn:mdciii:1603:16:384:3:280401>
@@ -3702,7 +3702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280401" ;
     skos:prefLabel "Sinématiali"@fra-Latn ;
-    wdata:q7200235 "CI280401" ;
+    wdata:Q7200235 "CI280401" ;
 .
 
 <urn:mdciii:1603:16:384:3:280402>
@@ -3712,7 +3712,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280402" ;
     skos:prefLabel "Bahouakaha"@fra-Latn ;
-    wdata:q7200235 "CI280402" ;
+    wdata:Q7200235 "CI280402" ;
 .
 
 <urn:mdciii:1603:16:384:3:280403>
@@ -3722,7 +3722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280403" ;
     skos:prefLabel "Kagbolodougou"@fra-Latn ;
-    wdata:q7200235 "CI280403" ;
+    wdata:Q7200235 "CI280403" ;
 .
 
 <urn:mdciii:1603:16:384:3:280404>
@@ -3732,7 +3732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:280404" ;
     skos:prefLabel "Sédiogo"@fra-Latn ;
-    wdata:q7200235 "CI280404" ;
+    wdata:Q7200235 "CI280404" ;
 .
 
 <urn:mdciii:1603:16:384:3:290101>
@@ -3742,7 +3742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290101" ;
     skos:prefLabel "San-Pédro"@fra-Latn ;
-    wdata:q7200235 "CI290101" ;
+    wdata:Q7200235 "CI290101" ;
 .
 
 <urn:mdciii:1603:16:384:3:290102>
@@ -3752,7 +3752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290102" ;
     skos:prefLabel "Doba"@fra-Latn ;
-    wdata:q7200235 "CI290102" ;
+    wdata:Q7200235 "CI290102" ;
 .
 
 <urn:mdciii:1603:16:384:3:290103>
@@ -3762,7 +3762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290103" ;
     skos:prefLabel "Dogbo"@fra-Latn ;
-    wdata:q7200235 "CI290103" ;
+    wdata:Q7200235 "CI290103" ;
 .
 
 <urn:mdciii:1603:16:384:3:290104>
@@ -3772,7 +3772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290104" ;
     skos:prefLabel "Gabiadji"@fra-Latn ;
-    wdata:q7200235 "CI290104" ;
+    wdata:Q7200235 "CI290104" ;
 .
 
 <urn:mdciii:1603:16:384:3:290105>
@@ -3782,7 +3782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290105" ;
     skos:prefLabel "Grand-Béréby"@fra-Latn ;
-    wdata:q7200235 "CI290105" ;
+    wdata:Q7200235 "CI290105" ;
 .
 
 <urn:mdciii:1603:16:384:3:290201>
@@ -3792,7 +3792,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290201" ;
     skos:prefLabel "Tabou"@fra-Latn ;
-    wdata:q7200235 "CI290201" ;
+    wdata:Q7200235 "CI290201" ;
 .
 
 <urn:mdciii:1603:16:384:3:290202>
@@ -3802,7 +3802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290202" ;
     skos:prefLabel "Dapo-Iboké"@fra-Latn ;
-    wdata:q7200235 "CI290202" ;
+    wdata:Q7200235 "CI290202" ;
 .
 
 <urn:mdciii:1603:16:384:3:290203>
@@ -3812,7 +3812,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290203" ;
     skos:prefLabel "Djamandioké"@fra-Latn ;
-    wdata:q7200235 "CI290203" ;
+    wdata:Q7200235 "CI290203" ;
 .
 
 <urn:mdciii:1603:16:384:3:290204>
@@ -3822,7 +3822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290204" ;
     skos:prefLabel "Djouroutou"@fra-Latn ;
-    wdata:q7200235 "CI290204" ;
+    wdata:Q7200235 "CI290204" ;
 .
 
 <urn:mdciii:1603:16:384:3:290205>
@@ -3832,7 +3832,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290205" ;
     skos:prefLabel "Grabo"@fra-Latn ;
-    wdata:q7200235 "CI290205" ;
+    wdata:Q7200235 "CI290205" ;
 .
 
 <urn:mdciii:1603:16:384:3:290206>
@@ -3842,7 +3842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:290206" ;
     skos:prefLabel "Olodio"@fra-Latn ;
-    wdata:q7200235 "CI290206" ;
+    wdata:Q7200235 "CI290206" ;
 .
 
 <urn:mdciii:1603:16:384:3:300101>
@@ -3852,7 +3852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300101" ;
     skos:prefLabel "Aboisso"@fra-Latn ;
-    wdata:q7200235 "CI300101" ;
+    wdata:Q7200235 "CI300101" ;
 .
 
 <urn:mdciii:1603:16:384:3:300102>
@@ -3862,7 +3862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300102" ;
     skos:prefLabel "Adaou"@fra-Latn ;
-    wdata:q7200235 "CI300102" ;
+    wdata:Q7200235 "CI300102" ;
 .
 
 <urn:mdciii:1603:16:384:3:300103>
@@ -3872,7 +3872,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300103" ;
     skos:prefLabel "Adjouan"@fra-Latn ;
-    wdata:q7200235 "CI300103" ;
+    wdata:Q7200235 "CI300103" ;
 .
 
 <urn:mdciii:1603:16:384:3:300104>
@@ -3882,7 +3882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300104" ;
     skos:prefLabel "Ayamé"@fra-Latn ;
-    wdata:q7200235 "CI300104" ;
+    wdata:Q7200235 "CI300104" ;
 .
 
 <urn:mdciii:1603:16:384:3:300105>
@@ -3892,7 +3892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300105" ;
     skos:prefLabel "Bianouan"@fra-Latn ;
-    wdata:q7200235 "CI300105" ;
+    wdata:Q7200235 "CI300105" ;
 .
 
 <urn:mdciii:1603:16:384:3:300106>
@@ -3902,7 +3902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300106" ;
     skos:prefLabel "Kouakro"@fra-Latn ;
-    wdata:q7200235 "CI300106" ;
+    wdata:Q7200235 "CI300106" ;
 .
 
 <urn:mdciii:1603:16:384:3:300107>
@@ -3912,7 +3912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300107" ;
     skos:prefLabel "Maféré"@fra-Latn ;
-    wdata:q7200235 "CI300107" ;
+    wdata:Q7200235 "CI300107" ;
 .
 
 <urn:mdciii:1603:16:384:3:300108>
@@ -3922,7 +3922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300108" ;
     skos:prefLabel "Yaou"@fra-Latn ;
-    wdata:q7200235 "CI300108" ;
+    wdata:Q7200235 "CI300108" ;
 .
 
 <urn:mdciii:1603:16:384:3:300201>
@@ -3932,7 +3932,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300201" ;
     skos:prefLabel "Adiake"@fra-Latn ;
-    wdata:q7200235 "CI300201" ;
+    wdata:Q7200235 "CI300201" ;
 .
 
 <urn:mdciii:1603:16:384:3:300202>
@@ -3942,7 +3942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300202" ;
     skos:prefLabel "Assinie-Mafia"@fra-Latn ;
-    wdata:q7200235 "CI300202" ;
+    wdata:Q7200235 "CI300202" ;
 .
 
 <urn:mdciii:1603:16:384:3:300203>
@@ -3952,7 +3952,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300203" ;
     skos:prefLabel "Etuéboué"@fra-Latn ;
-    wdata:q7200235 "CI300203" ;
+    wdata:Q7200235 "CI300203" ;
 .
 
 <urn:mdciii:1603:16:384:3:300301>
@@ -3962,7 +3962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300301" ;
     skos:prefLabel "Bongo"@fra-Latn ;
-    wdata:q7200235 "CI300301" ;
+    wdata:Q7200235 "CI300301" ;
 .
 
 <urn:mdciii:1603:16:384:3:300302>
@@ -3972,7 +3972,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300302" ;
     skos:prefLabel "Bonoua"@fra-Latn ;
-    wdata:q7200235 "CI300302" ;
+    wdata:Q7200235 "CI300302" ;
 .
 
 <urn:mdciii:1603:16:384:3:300303>
@@ -3982,7 +3982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300303" ;
     skos:prefLabel "Grand-Bassam"@fra-Latn ;
-    wdata:q7200235 "CI300303" ;
+    wdata:Q7200235 "CI300303" ;
 .
 
 <urn:mdciii:1603:16:384:3:300401>
@@ -3992,7 +3992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300401" ;
     skos:prefLabel "Tiapoum"@fra-Latn ;
-    wdata:q7200235 "CI300401" ;
+    wdata:Q7200235 "CI300401" ;
 .
 
 <urn:mdciii:1603:16:384:3:300402>
@@ -4002,7 +4002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300402" ;
     skos:prefLabel "Noé"@fra-Latn ;
-    wdata:q7200235 "CI300402" ;
+    wdata:Q7200235 "CI300402" ;
 .
 
 <urn:mdciii:1603:16:384:3:300403>
@@ -4012,7 +4012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:300403" ;
     skos:prefLabel "Nouamou"@fra-Latn ;
-    wdata:q7200235 "CI300403" ;
+    wdata:Q7200235 "CI300403" ;
 .
 
 <urn:mdciii:1603:16:384:3:30101>
@@ -4022,7 +4022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30101" ;
     skos:prefLabel "Aboudé"@fra-Latn ;
-    wdata:q7200235 "CI030101" ;
+    wdata:Q7200235 "CI030101" ;
 .
 
 <urn:mdciii:1603:16:384:3:30102>
@@ -4032,7 +4032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30102" ;
     skos:prefLabel "Agboville"@fra-Latn ;
-    wdata:q7200235 "CI030102" ;
+    wdata:Q7200235 "CI030102" ;
 .
 
 <urn:mdciii:1603:16:384:3:30103>
@@ -4042,7 +4042,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30103" ;
     skos:prefLabel "Ananguié"@fra-Latn ;
-    wdata:q7200235 "CI030103" ;
+    wdata:Q7200235 "CI030103" ;
 .
 
 <urn:mdciii:1603:16:384:3:30104>
@@ -4052,7 +4052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30104" ;
     skos:prefLabel "Attobrou"@fra-Latn ;
-    wdata:q7200235 "CI030104" ;
+    wdata:Q7200235 "CI030104" ;
 .
 
 <urn:mdciii:1603:16:384:3:30105>
@@ -4062,7 +4062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30105" ;
     skos:prefLabel "Azaguié"@fra-Latn ;
-    wdata:q7200235 "CI030105" ;
+    wdata:Q7200235 "CI030105" ;
 .
 
 <urn:mdciii:1603:16:384:3:30106>
@@ -4072,7 +4072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30106" ;
     skos:prefLabel "Cechi"@fra-Latn ;
-    wdata:q7200235 "CI030106" ;
+    wdata:Q7200235 "CI030106" ;
 .
 
 <urn:mdciii:1603:16:384:3:30107>
@@ -4082,7 +4082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30107" ;
     skos:prefLabel "Grand-Morié"@fra-Latn ;
-    wdata:q7200235 "CI030107" ;
+    wdata:Q7200235 "CI030107" ;
 .
 
 <urn:mdciii:1603:16:384:3:30108>
@@ -4092,7 +4092,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30108" ;
     skos:prefLabel "Guessiguié"@fra-Latn ;
-    wdata:q7200235 "CI030108" ;
+    wdata:Q7200235 "CI030108" ;
 .
 
 <urn:mdciii:1603:16:384:3:30109>
@@ -4102,7 +4102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30109" ;
     skos:prefLabel "Loviguié"@fra-Latn ;
-    wdata:q7200235 "CI030109" ;
+    wdata:Q7200235 "CI030109" ;
 .
 
 <urn:mdciii:1603:16:384:3:30110>
@@ -4112,7 +4112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30110" ;
     skos:prefLabel "Oress-Krobou"@fra-Latn ;
-    wdata:q7200235 "CI030110" ;
+    wdata:Q7200235 "CI030110" ;
 .
 
 <urn:mdciii:1603:16:384:3:30111>
@@ -4122,7 +4122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30111" ;
     skos:prefLabel "Rubino"@fra-Latn ;
-    wdata:q7200235 "CI030111" ;
+    wdata:Q7200235 "CI030111" ;
 .
 
 <urn:mdciii:1603:16:384:3:30201>
@@ -4132,7 +4132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30201" ;
     skos:prefLabel "Sikensi"@fra-Latn ;
-    wdata:q7200235 "CI030201" ;
+    wdata:Q7200235 "CI030201" ;
 .
 
 <urn:mdciii:1603:16:384:3:30202>
@@ -4142,7 +4142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30202" ;
     skos:prefLabel "Gomon"@fra-Latn ;
-    wdata:q7200235 "CI030202" ;
+    wdata:Q7200235 "CI030202" ;
 .
 
 <urn:mdciii:1603:16:384:3:30301>
@@ -4152,7 +4152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30301" ;
     skos:prefLabel "Taabo"@fra-Latn ;
-    wdata:q7200235 "CI030301" ;
+    wdata:Q7200235 "CI030301" ;
 .
 
 <urn:mdciii:1603:16:384:3:30302>
@@ -4162,7 +4162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30302" ;
     skos:prefLabel "Pacobo"@fra-Latn ;
-    wdata:q7200235 "CI030302" ;
+    wdata:Q7200235 "CI030302" ;
 .
 
 <urn:mdciii:1603:16:384:3:30401>
@@ -4172,7 +4172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30401" ;
     skos:prefLabel "Tiassalé"@fra-Latn ;
-    wdata:q7200235 "CI030401" ;
+    wdata:Q7200235 "CI030401" ;
 .
 
 <urn:mdciii:1603:16:384:3:30402>
@@ -4182,7 +4182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30402" ;
     skos:prefLabel "Gbolouville"@fra-Latn ;
-    wdata:q7200235 "CI030402" ;
+    wdata:Q7200235 "CI030402" ;
 .
 
 <urn:mdciii:1603:16:384:3:30403>
@@ -4192,7 +4192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30403" ;
     skos:prefLabel "Morokro"@fra-Latn ;
-    wdata:q7200235 "CI030403" ;
+    wdata:Q7200235 "CI030403" ;
 .
 
 <urn:mdciii:1603:16:384:3:30404>
@@ -4202,7 +4202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:30404" ;
     skos:prefLabel "N'Douci"@fra-Latn ;
-    wdata:q7200235 "CI030404" ;
+    wdata:Q7200235 "CI030404" ;
 .
 
 <urn:mdciii:1603:16:384:3:310101>
@@ -4212,7 +4212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310101" ;
     skos:prefLabel "Ferkéssédougou"@fra-Latn ;
-    wdata:q7200235 "CI310101" ;
+    wdata:Q7200235 "CI310101" ;
 .
 
 <urn:mdciii:1603:16:384:3:310102>
@@ -4222,7 +4222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310102" ;
     skos:prefLabel "Koumbala"@fra-Latn ;
-    wdata:q7200235 "CI310102" ;
+    wdata:Q7200235 "CI310102" ;
 .
 
 <urn:mdciii:1603:16:384:3:310103>
@@ -4232,7 +4232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310103" ;
     skos:prefLabel "Togoniéré"@fra-Latn ;
-    wdata:q7200235 "CI310103" ;
+    wdata:Q7200235 "CI310103" ;
 .
 
 <urn:mdciii:1603:16:384:3:310201>
@@ -4242,7 +4242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310201" ;
     skos:prefLabel "Kong"@fra-Latn ;
-    wdata:q7200235 "CI310201" ;
+    wdata:Q7200235 "CI310201" ;
 .
 
 <urn:mdciii:1603:16:384:3:310202>
@@ -4252,7 +4252,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310202" ;
     skos:prefLabel "Bilimono"@fra-Latn ;
-    wdata:q7200235 "CI310202" ;
+    wdata:Q7200235 "CI310202" ;
 .
 
 <urn:mdciii:1603:16:384:3:310203>
@@ -4262,7 +4262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310203" ;
     skos:prefLabel "Nafana"@fra-Latn ;
-    wdata:q7200235 "CI310203" ;
+    wdata:Q7200235 "CI310203" ;
 .
 
 <urn:mdciii:1603:16:384:3:310204>
@@ -4272,7 +4272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310204" ;
     skos:prefLabel "Sikolo"@fra-Latn ;
-    wdata:q7200235 "CI310204" ;
+    wdata:Q7200235 "CI310204" ;
 .
 
 <urn:mdciii:1603:16:384:3:310301>
@@ -4282,7 +4282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310301" ;
     skos:prefLabel "Ouangolodougou"@fra-Latn ;
-    wdata:q7200235 "CI310301" ;
+    wdata:Q7200235 "CI310301" ;
 .
 
 <urn:mdciii:1603:16:384:3:310302>
@@ -4292,7 +4292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310302" ;
     skos:prefLabel "Diawala"@fra-Latn ;
-    wdata:q7200235 "CI310302" ;
+    wdata:Q7200235 "CI310302" ;
 .
 
 <urn:mdciii:1603:16:384:3:310303>
@@ -4302,7 +4302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310303" ;
     skos:prefLabel "Kaouara"@fra-Latn ;
-    wdata:q7200235 "CI310303" ;
+    wdata:Q7200235 "CI310303" ;
 .
 
 <urn:mdciii:1603:16:384:3:310304>
@@ -4312,7 +4312,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310304" ;
     skos:prefLabel "Niellé"@fra-Latn ;
-    wdata:q7200235 "CI310304" ;
+    wdata:Q7200235 "CI310304" ;
 .
 
 <urn:mdciii:1603:16:384:3:310305>
@@ -4322,7 +4322,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:310305" ;
     skos:prefLabel "Toumoukoro"@fra-Latn ;
-    wdata:q7200235 "CI310305" ;
+    wdata:Q7200235 "CI310305" ;
 .
 
 <urn:mdciii:1603:16:384:3:320101>
@@ -4332,7 +4332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320101" ;
     skos:prefLabel "Biankouma"@fra-Latn ;
-    wdata:q7200235 "CI320101" ;
+    wdata:Q7200235 "CI320101" ;
 .
 
 <urn:mdciii:1603:16:384:3:320102>
@@ -4342,7 +4342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320102" ;
     skos:prefLabel "Blapleu"@fra-Latn ;
-    wdata:q7200235 "CI320102" ;
+    wdata:Q7200235 "CI320102" ;
 .
 
 <urn:mdciii:1603:16:384:3:320103>
@@ -4352,7 +4352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320103" ;
     skos:prefLabel "Gbangbégouiné"@fra-Latn ;
-    wdata:q7200235 "CI320103" ;
+    wdata:Q7200235 "CI320103" ;
 .
 
 <urn:mdciii:1603:16:384:3:320104>
@@ -4362,7 +4362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320104" ;
     skos:prefLabel "Gbonné"@fra-Latn ;
-    wdata:q7200235 "CI320104" ;
+    wdata:Q7200235 "CI320104" ;
 .
 
 <urn:mdciii:1603:16:384:3:320105>
@@ -4372,7 +4372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320105" ;
     skos:prefLabel "Gouiné"@fra-Latn ;
-    wdata:q7200235 "CI320105" ;
+    wdata:Q7200235 "CI320105" ;
 .
 
 <urn:mdciii:1603:16:384:3:320106>
@@ -4382,7 +4382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320106" ;
     skos:prefLabel "Kpata"@fra-Latn ;
-    wdata:q7200235 "CI320106" ;
+    wdata:Q7200235 "CI320106" ;
 .
 
 <urn:mdciii:1603:16:384:3:320107>
@@ -4392,7 +4392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320107" ;
     skos:prefLabel "Santa"@fra-Latn ;
-    wdata:q7200235 "CI320107" ;
+    wdata:Q7200235 "CI320107" ;
 .
 
 <urn:mdciii:1603:16:384:3:320201>
@@ -4402,7 +4402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320201" ;
     skos:prefLabel "Daleu"@fra-Latn ;
-    wdata:q7200235 "CI320201" ;
+    wdata:Q7200235 "CI320201" ;
 .
 
 <urn:mdciii:1603:16:384:3:320202>
@@ -4412,7 +4412,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320202" ;
     skos:prefLabel "Danané"@fra-Latn ;
-    wdata:q7200235 "CI320202" ;
+    wdata:Q7200235 "CI320202" ;
 .
 
 <urn:mdciii:1603:16:384:3:320203>
@@ -4422,7 +4422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320203" ;
     skos:prefLabel "Gbon-Houyé"@fra-Latn ;
-    wdata:q7200235 "CI320203" ;
+    wdata:Q7200235 "CI320203" ;
 .
 
 <urn:mdciii:1603:16:384:3:320204>
@@ -4432,7 +4432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320204" ;
     skos:prefLabel "Kouan-Houlé"@fra-Latn ;
-    wdata:q7200235 "CI320204" ;
+    wdata:Q7200235 "CI320204" ;
 .
 
 <urn:mdciii:1603:16:384:3:320205>
@@ -4442,7 +4442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320205" ;
     skos:prefLabel "Mahapleu"@fra-Latn ;
-    wdata:q7200235 "CI320205" ;
+    wdata:Q7200235 "CI320205" ;
 .
 
 <urn:mdciii:1603:16:384:3:320206>
@@ -4452,7 +4452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320206" ;
     skos:prefLabel "Seileu"@fra-Latn ;
-    wdata:q7200235 "CI320206" ;
+    wdata:Q7200235 "CI320206" ;
 .
 
 <urn:mdciii:1603:16:384:3:320207>
@@ -4462,7 +4462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320207" ;
     skos:prefLabel "Zonneu"@fra-Latn ;
-    wdata:q7200235 "CI320207" ;
+    wdata:Q7200235 "CI320207" ;
 .
 
 <urn:mdciii:1603:16:384:3:320301>
@@ -4472,7 +4472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320301" ;
     skos:prefLabel "Man"@fra-Latn ;
-    wdata:q7200235 "CI320301" ;
+    wdata:Q7200235 "CI320301" ;
 .
 
 <urn:mdciii:1603:16:384:3:320302>
@@ -4482,7 +4482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320302" ;
     skos:prefLabel "Bogouiné"@fra-Latn ;
-    wdata:q7200235 "CI320302" ;
+    wdata:Q7200235 "CI320302" ;
 .
 
 <urn:mdciii:1603:16:384:3:320303>
@@ -4492,7 +4492,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320303" ;
     skos:prefLabel "Fagnampleu"@fra-Latn ;
-    wdata:q7200235 "CI320303" ;
+    wdata:Q7200235 "CI320303" ;
 .
 
 <urn:mdciii:1603:16:384:3:320304>
@@ -4502,7 +4502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320304" ;
     skos:prefLabel "Gbangbegouiné-Yati"@fra-Latn ;
-    wdata:q7200235 "CI320304" ;
+    wdata:Q7200235 "CI320304" ;
 .
 
 <urn:mdciii:1603:16:384:3:320305>
@@ -4512,7 +4512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320305" ;
     skos:prefLabel "Logoualé"@fra-Latn ;
-    wdata:q7200235 "CI320305" ;
+    wdata:Q7200235 "CI320305" ;
 .
 
 <urn:mdciii:1603:16:384:3:320306>
@@ -4522,7 +4522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320306" ;
     skos:prefLabel "Podiagouiné"@fra-Latn ;
-    wdata:q7200235 "CI320306" ;
+    wdata:Q7200235 "CI320306" ;
 .
 
 <urn:mdciii:1603:16:384:3:320307>
@@ -4532,7 +4532,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320307" ;
     skos:prefLabel "Sandougou-Soba"@fra-Latn ;
-    wdata:q7200235 "CI320307" ;
+    wdata:Q7200235 "CI320307" ;
 .
 
 <urn:mdciii:1603:16:384:3:320308>
@@ -4542,7 +4542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320308" ;
     skos:prefLabel "Sangouiné"@fra-Latn ;
-    wdata:q7200235 "CI320308" ;
+    wdata:Q7200235 "CI320308" ;
 .
 
 <urn:mdciii:1603:16:384:3:320309>
@@ -4552,7 +4552,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320309" ;
     skos:prefLabel "Yapleu"@fra-Latn ;
-    wdata:q7200235 "CI320309" ;
+    wdata:Q7200235 "CI320309" ;
 .
 
 <urn:mdciii:1603:16:384:3:320310>
@@ -4562,7 +4562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320310" ;
     skos:prefLabel "Zagoué"@fra-Latn ;
-    wdata:q7200235 "CI320310" ;
+    wdata:Q7200235 "CI320310" ;
 .
 
 <urn:mdciii:1603:16:384:3:320311>
@@ -4572,7 +4572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320311" ;
     skos:prefLabel "Ziogouiné"@fra-Latn ;
-    wdata:q7200235 "CI320311" ;
+    wdata:Q7200235 "CI320311" ;
 .
 
 <urn:mdciii:1603:16:384:3:320401>
@@ -4582,7 +4582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320401" ;
     skos:prefLabel "Sipilou"@fra-Latn ;
-    wdata:q7200235 "CI320401" ;
+    wdata:Q7200235 "CI320401" ;
 .
 
 <urn:mdciii:1603:16:384:3:320402>
@@ -4592,7 +4592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320402" ;
     skos:prefLabel "Yorodougou"@fra-Latn ;
-    wdata:q7200235 "CI320402" ;
+    wdata:Q7200235 "CI320402" ;
 .
 
 <urn:mdciii:1603:16:384:3:320501>
@@ -4602,7 +4602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320501" ;
     skos:prefLabel "Zouan Hounien"@fra-Latn ;
-    wdata:q7200235 "CI320501" ;
+    wdata:Q7200235 "CI320501" ;
 .
 
 <urn:mdciii:1603:16:384:3:320502>
@@ -4612,7 +4612,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320502" ;
     skos:prefLabel "Banneu"@fra-Latn ;
-    wdata:q7200235 "CI320502" ;
+    wdata:Q7200235 "CI320502" ;
 .
 
 <urn:mdciii:1603:16:384:3:320503>
@@ -4622,7 +4622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320503" ;
     skos:prefLabel "Bin-Houyé"@fra-Latn ;
-    wdata:q7200235 "CI320503" ;
+    wdata:Q7200235 "CI320503" ;
 .
 
 <urn:mdciii:1603:16:384:3:320504>
@@ -4632,7 +4632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320504" ;
     skos:prefLabel "Goulaleu"@fra-Latn ;
-    wdata:q7200235 "CI320504" ;
+    wdata:Q7200235 "CI320504" ;
 .
 
 <urn:mdciii:1603:16:384:3:320505>
@@ -4642,7 +4642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320505" ;
     skos:prefLabel "Téapleu"@fra-Latn ;
-    wdata:q7200235 "CI320505" ;
+    wdata:Q7200235 "CI320505" ;
 .
 
 <urn:mdciii:1603:16:384:3:320506>
@@ -4652,7 +4652,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:320506" ;
     skos:prefLabel "Yelleu"@fra-Latn ;
-    wdata:q7200235 "CI320506" ;
+    wdata:Q7200235 "CI320506" ;
 .
 
 <urn:mdciii:1603:16:384:3:330101>
@@ -4662,7 +4662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330101" ;
     skos:prefLabel "Kani"@fra-Latn ;
-    wdata:q7200235 "CI330101" ;
+    wdata:Q7200235 "CI330101" ;
 .
 
 <urn:mdciii:1603:16:384:3:330102>
@@ -4672,7 +4672,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330102" ;
     skos:prefLabel "Djibrosso"@fra-Latn ;
-    wdata:q7200235 "CI330102" ;
+    wdata:Q7200235 "CI330102" ;
 .
 
 <urn:mdciii:1603:16:384:3:330103>
@@ -4682,7 +4682,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330103" ;
     skos:prefLabel "Fadiadougou"@fra-Latn ;
-    wdata:q7200235 "CI330103" ;
+    wdata:Q7200235 "CI330103" ;
 .
 
 <urn:mdciii:1603:16:384:3:330104>
@@ -4692,7 +4692,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330104" ;
     skos:prefLabel "Morondo"@fra-Latn ;
-    wdata:q7200235 "CI330104" ;
+    wdata:Q7200235 "CI330104" ;
 .
 
 <urn:mdciii:1603:16:384:3:330201>
@@ -4702,7 +4702,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330201" ;
     skos:prefLabel "Séguéla"@fra-Latn ;
-    wdata:q7200235 "CI330201" ;
+    wdata:Q7200235 "CI330201" ;
 .
 
 <urn:mdciii:1603:16:384:3:330202>
@@ -4712,7 +4712,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330202" ;
     skos:prefLabel "Bobi-Diarabana"@fra-Latn ;
-    wdata:q7200235 "CI330202" ;
+    wdata:Q7200235 "CI330202" ;
 .
 
 <urn:mdciii:1603:16:384:3:330203>
@@ -4722,7 +4722,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330203" ;
     skos:prefLabel "Dualla"@fra-Latn ;
-    wdata:q7200235 "CI330203" ;
+    wdata:Q7200235 "CI330203" ;
 .
 
 <urn:mdciii:1603:16:384:3:330204>
@@ -4732,7 +4732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330204" ;
     skos:prefLabel "Kamalo"@fra-Latn ;
-    wdata:q7200235 "CI330204" ;
+    wdata:Q7200235 "CI330204" ;
 .
 
 <urn:mdciii:1603:16:384:3:330205>
@@ -4742,7 +4742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330205" ;
     skos:prefLabel "Massala"@fra-Latn ;
-    wdata:q7200235 "CI330205" ;
+    wdata:Q7200235 "CI330205" ;
 .
 
 <urn:mdciii:1603:16:384:3:330206>
@@ -4752,7 +4752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330206" ;
     skos:prefLabel "Sifié"@fra-Latn ;
-    wdata:q7200235 "CI330206" ;
+    wdata:Q7200235 "CI330206" ;
 .
 
 <urn:mdciii:1603:16:384:3:330207>
@@ -4762,7 +4762,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:330207" ;
     skos:prefLabel "Worofla"@fra-Latn ;
-    wdata:q7200235 "CI330207" ;
+    wdata:Q7200235 "CI330207" ;
 .
 
 <urn:mdciii:1603:16:384:3:40101>
@@ -4772,7 +4772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40101" ;
     skos:prefLabel "Koro"@fra-Latn ;
-    wdata:q7200235 "CI040101" ;
+    wdata:Q7200235 "CI040101" ;
 .
 
 <urn:mdciii:1603:16:384:3:40102>
@@ -4782,7 +4782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40102" ;
     skos:prefLabel "Booko"@fra-Latn ;
-    wdata:q7200235 "CI040102" ;
+    wdata:Q7200235 "CI040102" ;
 .
 
 <urn:mdciii:1603:16:384:3:40103>
@@ -4792,7 +4792,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40103" ;
     skos:prefLabel "Borotou"@fra-Latn ;
-    wdata:q7200235 "CI040103" ;
+    wdata:Q7200235 "CI040103" ;
 .
 
 <urn:mdciii:1603:16:384:3:40104>
@@ -4802,7 +4802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40104" ;
     skos:prefLabel "Mahandougou"@fra-Latn ;
-    wdata:q7200235 "CI040104" ;
+    wdata:Q7200235 "CI040104" ;
 .
 
 <urn:mdciii:1603:16:384:3:40105>
@@ -4812,7 +4812,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40105" ;
     skos:prefLabel "Niokosso"@fra-Latn ;
-    wdata:q7200235 "CI040105" ;
+    wdata:Q7200235 "CI040105" ;
 .
 
 <urn:mdciii:1603:16:384:3:40201>
@@ -4822,7 +4822,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40201" ;
     skos:prefLabel "Ouaninou"@fra-Latn ;
-    wdata:q7200235 "CI040201" ;
+    wdata:Q7200235 "CI040201" ;
 .
 
 <urn:mdciii:1603:16:384:3:40202>
@@ -4832,7 +4832,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40202" ;
     skos:prefLabel "Gbèlo"@fra-Latn ;
-    wdata:q7200235 "CI040202" ;
+    wdata:Q7200235 "CI040202" ;
 .
 
 <urn:mdciii:1603:16:384:3:40203>
@@ -4842,7 +4842,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40203" ;
     skos:prefLabel "Gouékan"@fra-Latn ;
-    wdata:q7200235 "CI040203" ;
+    wdata:Q7200235 "CI040203" ;
 .
 
 <urn:mdciii:1603:16:384:3:40204>
@@ -4852,7 +4852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40204" ;
     skos:prefLabel "Koonan"@fra-Latn ;
-    wdata:q7200235 "CI040204" ;
+    wdata:Q7200235 "CI040204" ;
 .
 
 <urn:mdciii:1603:16:384:3:40205>
@@ -4862,7 +4862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40205" ;
     skos:prefLabel "Saboudougou"@fra-Latn ;
-    wdata:q7200235 "CI040205" ;
+    wdata:Q7200235 "CI040205" ;
 .
 
 <urn:mdciii:1603:16:384:3:40206>
@@ -4872,7 +4872,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40206" ;
     skos:prefLabel "Santa"@fra-Latn ;
-    wdata:q7200235 "CI040206" ;
+    wdata:Q7200235 "CI040206" ;
 .
 
 <urn:mdciii:1603:16:384:3:40301>
@@ -4882,7 +4882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40301" ;
     skos:prefLabel "Touba"@fra-Latn ;
-    wdata:q7200235 "CI040301" ;
+    wdata:Q7200235 "CI040301" ;
 .
 
 <urn:mdciii:1603:16:384:3:40302>
@@ -4892,7 +4892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40302" ;
     skos:prefLabel "Dioman"@fra-Latn ;
-    wdata:q7200235 "CI040302" ;
+    wdata:Q7200235 "CI040302" ;
 .
 
 <urn:mdciii:1603:16:384:3:40303>
@@ -4902,7 +4902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40303" ;
     skos:prefLabel "Foungbesso"@fra-Latn ;
-    wdata:q7200235 "CI040303" ;
+    wdata:Q7200235 "CI040303" ;
 .
 
 <urn:mdciii:1603:16:384:3:40304>
@@ -4912,7 +4912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:40304" ;
     skos:prefLabel "Guintéguéla"@fra-Latn ;
-    wdata:q7200235 "CI040304" ;
+    wdata:Q7200235 "CI040304" ;
 .
 
 <urn:mdciii:1603:16:384:3:50101>
@@ -4922,7 +4922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50101" ;
     skos:prefLabel "Baya"@fra-Latn ;
-    wdata:q7200235 "CI050101" ;
+    wdata:Q7200235 "CI050101" ;
 .
 
 <urn:mdciii:1603:16:384:3:50102>
@@ -4932,7 +4932,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50102" ;
     skos:prefLabel "Boundiali"@fra-Latn ;
-    wdata:q7200235 "CI050102" ;
+    wdata:Q7200235 "CI050102" ;
 .
 
 <urn:mdciii:1603:16:384:3:50103>
@@ -4942,7 +4942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50103" ;
     skos:prefLabel "Ganaoni"@fra-Latn ;
-    wdata:q7200235 "CI050103" ;
+    wdata:Q7200235 "CI050103" ;
 .
 
 <urn:mdciii:1603:16:384:3:50104>
@@ -4952,7 +4952,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50104" ;
     skos:prefLabel "Kasséré"@fra-Latn ;
-    wdata:q7200235 "CI050104" ;
+    wdata:Q7200235 "CI050104" ;
 .
 
 <urn:mdciii:1603:16:384:3:50105>
@@ -4962,7 +4962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50105" ;
     skos:prefLabel "Siempurgo"@fra-Latn ;
-    wdata:q7200235 "CI050105" ;
+    wdata:Q7200235 "CI050105" ;
 .
 
 <urn:mdciii:1603:16:384:3:50201>
@@ -4972,7 +4972,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50201" ;
     skos:prefLabel "Kouto"@fra-Latn ;
-    wdata:q7200235 "CI050201" ;
+    wdata:Q7200235 "CI050201" ;
 .
 
 <urn:mdciii:1603:16:384:3:50202>
@@ -4982,7 +4982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50202" ;
     skos:prefLabel "Blességué"@fra-Latn ;
-    wdata:q7200235 "CI050202" ;
+    wdata:Q7200235 "CI050202" ;
 .
 
 <urn:mdciii:1603:16:384:3:50203>
@@ -4992,7 +4992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50203" ;
     skos:prefLabel "Gbon"@fra-Latn ;
-    wdata:q7200235 "CI050203" ;
+    wdata:Q7200235 "CI050203" ;
 .
 
 <urn:mdciii:1603:16:384:3:50204>
@@ -5002,7 +5002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50204" ;
     skos:prefLabel "Kolia"@fra-Latn ;
-    wdata:q7200235 "CI050204" ;
+    wdata:Q7200235 "CI050204" ;
 .
 
 <urn:mdciii:1603:16:384:3:50205>
@@ -5012,7 +5012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50205" ;
     skos:prefLabel "Sianhala"@fra-Latn ;
-    wdata:q7200235 "CI050205" ;
+    wdata:Q7200235 "CI050205" ;
 .
 
 <urn:mdciii:1603:16:384:3:50301>
@@ -5022,7 +5022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50301" ;
     skos:prefLabel "Tengrela"@fra-Latn ;
-    wdata:q7200235 "CI050301" ;
+    wdata:Q7200235 "CI050301" ;
 .
 
 <urn:mdciii:1603:16:384:3:50302>
@@ -5032,7 +5032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50302" ;
     skos:prefLabel "Débété"@fra-Latn ;
-    wdata:q7200235 "CI050302" ;
+    wdata:Q7200235 "CI050302" ;
 .
 
 <urn:mdciii:1603:16:384:3:50303>
@@ -5042,7 +5042,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50303" ;
     skos:prefLabel "Kanakono"@fra-Latn ;
-    wdata:q7200235 "CI050303" ;
+    wdata:Q7200235 "CI050303" ;
 .
 
 <urn:mdciii:1603:16:384:3:50304>
@@ -5052,7 +5052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:50304" ;
     skos:prefLabel "Papara"@fra-Latn ;
-    wdata:q7200235 "CI050304" ;
+    wdata:Q7200235 "CI050304" ;
 .
 
 <urn:mdciii:1603:16:384:3:60101>
@@ -5062,7 +5062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60101" ;
     skos:prefLabel "Boli"@fra-Latn ;
-    wdata:q7200235 "CI060101" ;
+    wdata:Q7200235 "CI060101" ;
 .
 
 <urn:mdciii:1603:16:384:3:60102>
@@ -5072,7 +5072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60102" ;
     skos:prefLabel "Didievi"@fra-Latn ;
-    wdata:q7200235 "CI060102" ;
+    wdata:Q7200235 "CI060102" ;
 .
 
 <urn:mdciii:1603:16:384:3:60103>
@@ -5082,7 +5082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60103" ;
     skos:prefLabel "Molonou-Blé"@fra-Latn ;
-    wdata:q7200235 "CI060103" ;
+    wdata:Q7200235 "CI060103" ;
 .
 
 <urn:mdciii:1603:16:384:3:60104>
@@ -5092,7 +5092,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60104" ;
     skos:prefLabel "Raviart"@fra-Latn ;
-    wdata:q7200235 "CI060104" ;
+    wdata:Q7200235 "CI060104" ;
 .
 
 <urn:mdciii:1603:16:384:3:60105>
@@ -5102,7 +5102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60105" ;
     skos:prefLabel "Tie N'Diékro"@fra-Latn ;
-    wdata:q7200235 "CI060105" ;
+    wdata:Q7200235 "CI060105" ;
 .
 
 <urn:mdciii:1603:16:384:3:60201>
@@ -5112,7 +5112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60201" ;
     skos:prefLabel "Bonikro"@fra-Latn ;
-    wdata:q7200235 "CI060201" ;
+    wdata:Q7200235 "CI060201" ;
 .
 
 <urn:mdciii:1603:16:384:3:60202>
@@ -5122,7 +5122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60202" ;
     skos:prefLabel "Djékanou"@fra-Latn ;
-    wdata:q7200235 "CI060202" ;
+    wdata:Q7200235 "CI060202" ;
 .
 
 <urn:mdciii:1603:16:384:3:60301>
@@ -5132,7 +5132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60301" ;
     skos:prefLabel "Tiébissou"@fra-Latn ;
-    wdata:q7200235 "CI060301" ;
+    wdata:Q7200235 "CI060301" ;
 .
 
 <urn:mdciii:1603:16:384:3:60302>
@@ -5142,7 +5142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60302" ;
     skos:prefLabel "Lomokankro"@fra-Latn ;
-    wdata:q7200235 "CI060302" ;
+    wdata:Q7200235 "CI060302" ;
 .
 
 <urn:mdciii:1603:16:384:3:60303>
@@ -5152,7 +5152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60303" ;
     skos:prefLabel "Molonou"@fra-Latn ;
-    wdata:q7200235 "CI060303" ;
+    wdata:Q7200235 "CI060303" ;
 .
 
 <urn:mdciii:1603:16:384:3:60304>
@@ -5162,7 +5162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60304" ;
     skos:prefLabel "Yakpabo-Sakassou"@fra-Latn ;
-    wdata:q7200235 "CI060304" ;
+    wdata:Q7200235 "CI060304" ;
 .
 
 <urn:mdciii:1603:16:384:3:60401>
@@ -5172,7 +5172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60401" ;
     skos:prefLabel "Toumodi"@fra-Latn ;
-    wdata:q7200235 "CI060401" ;
+    wdata:Q7200235 "CI060401" ;
 .
 
 <urn:mdciii:1603:16:384:3:60402>
@@ -5182,7 +5182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60402" ;
     skos:prefLabel "Angoda"@fra-Latn ;
-    wdata:q7200235 "CI060402" ;
+    wdata:Q7200235 "CI060402" ;
 .
 
 <urn:mdciii:1603:16:384:3:60403>
@@ -5192,7 +5192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60403" ;
     skos:prefLabel "Kokoumbo"@fra-Latn ;
-    wdata:q7200235 "CI060403" ;
+    wdata:Q7200235 "CI060403" ;
 .
 
 <urn:mdciii:1603:16:384:3:60404>
@@ -5202,7 +5202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:60404" ;
     skos:prefLabel "Kpouèbo"@fra-Latn ;
-    wdata:q7200235 "CI060404" ;
+    wdata:Q7200235 "CI060404" ;
 .
 
 <urn:mdciii:1603:16:384:3:70101>
@@ -5212,7 +5212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70101" ;
     skos:prefLabel "Dianra"@fra-Latn ;
-    wdata:q7200235 "CI070101" ;
+    wdata:Q7200235 "CI070101" ;
 .
 
 <urn:mdciii:1603:16:384:3:70102>
@@ -5222,7 +5222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70102" ;
     skos:prefLabel "Dianra-Village"@fra-Latn ;
-    wdata:q7200235 "CI070102" ;
+    wdata:Q7200235 "CI070102" ;
 .
 
 <urn:mdciii:1603:16:384:3:70201>
@@ -5232,7 +5232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70201" ;
     skos:prefLabel "Kounahiri"@fra-Latn ;
-    wdata:q7200235 "CI070201" ;
+    wdata:Q7200235 "CI070201" ;
 .
 
 <urn:mdciii:1603:16:384:3:70202>
@@ -5242,7 +5242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70202" ;
     skos:prefLabel "Kongasso"@fra-Latn ;
-    wdata:q7200235 "CI070202" ;
+    wdata:Q7200235 "CI070202" ;
 .
 
 <urn:mdciii:1603:16:384:3:70301>
@@ -5252,7 +5252,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70301" ;
     skos:prefLabel "Mankono"@fra-Latn ;
-    wdata:q7200235 "CI070301" ;
+    wdata:Q7200235 "CI070301" ;
 .
 
 <urn:mdciii:1603:16:384:3:70302>
@@ -5262,7 +5262,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70302" ;
     skos:prefLabel "Bouandougou"@fra-Latn ;
-    wdata:q7200235 "CI070302" ;
+    wdata:Q7200235 "CI070302" ;
 .
 
 <urn:mdciii:1603:16:384:3:70303>
@@ -5272,7 +5272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70303" ;
     skos:prefLabel "Marandallah"@fra-Latn ;
-    wdata:q7200235 "CI070303" ;
+    wdata:Q7200235 "CI070303" ;
 .
 
 <urn:mdciii:1603:16:384:3:70304>
@@ -5282,7 +5282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70304" ;
     skos:prefLabel "Sarhala"@fra-Latn ;
-    wdata:q7200235 "CI070304" ;
+    wdata:Q7200235 "CI070304" ;
 .
 
 <urn:mdciii:1603:16:384:3:70305>
@@ -5292,7 +5292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:70305" ;
     skos:prefLabel "Tiéningboué"@fra-Latn ;
-    wdata:q7200235 "CI070305" ;
+    wdata:Q7200235 "CI070305" ;
 .
 
 <urn:mdciii:1603:16:384:3:80101>
@@ -5302,7 +5302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80101" ;
     skos:prefLabel "Bouko"@fra-Latn ;
-    wdata:q7200235 "CI080101" ;
+    wdata:Q7200235 "CI080101" ;
 .
 
 <urn:mdciii:1603:16:384:3:80102>
@@ -5312,7 +5312,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80102" ;
     skos:prefLabel "Bouna"@fra-Latn ;
-    wdata:q7200235 "CI080102" ;
+    wdata:Q7200235 "CI080102" ;
 .
 
 <urn:mdciii:1603:16:384:3:80103>
@@ -5322,7 +5322,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80103" ;
     skos:prefLabel "Ondéfidouo"@fra-Latn ;
-    wdata:q7200235 "CI080103" ;
+    wdata:Q7200235 "CI080103" ;
 .
 
 <urn:mdciii:1603:16:384:3:80104>
@@ -5332,7 +5332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80104" ;
     skos:prefLabel "Parc National de Bona"@fra-Latn ;
-    wdata:q7200235 "CI080104" ;
+    wdata:Q7200235 "CI080104" ;
 .
 
 <urn:mdciii:1603:16:384:3:80105>
@@ -5342,7 +5342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80105" ;
     skos:prefLabel "Youndouo"@fra-Latn ;
-    wdata:q7200235 "CI080105" ;
+    wdata:Q7200235 "CI080105" ;
 .
 
 <urn:mdciii:1603:16:384:3:80201>
@@ -5352,7 +5352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80201" ;
     skos:prefLabel "Danoa"@fra-Latn ;
-    wdata:q7200235 "CI080201" ;
+    wdata:Q7200235 "CI080201" ;
 .
 
 <urn:mdciii:1603:16:384:3:80202>
@@ -5362,7 +5362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80202" ;
     skos:prefLabel "Doropo"@fra-Latn ;
-    wdata:q7200235 "CI080202" ;
+    wdata:Q7200235 "CI080202" ;
 .
 
 <urn:mdciii:1603:16:384:3:80203>
@@ -5372,7 +5372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80203" ;
     skos:prefLabel "Kalamon"@fra-Latn ;
-    wdata:q7200235 "CI080203" ;
+    wdata:Q7200235 "CI080203" ;
 .
 
 <urn:mdciii:1603:16:384:3:80204>
@@ -5382,7 +5382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80204" ;
     skos:prefLabel "Niamoué"@fra-Latn ;
-    wdata:q7200235 "CI080204" ;
+    wdata:Q7200235 "CI080204" ;
 .
 
 <urn:mdciii:1603:16:384:3:80301>
@@ -5392,7 +5392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80301" ;
     skos:prefLabel "Nassian"@fra-Latn ;
-    wdata:q7200235 "CI080301" ;
+    wdata:Q7200235 "CI080301" ;
 .
 
 <urn:mdciii:1603:16:384:3:80302>
@@ -5402,7 +5402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80302" ;
     skos:prefLabel "Bogofa"@fra-Latn ;
-    wdata:q7200235 "CI080302" ;
+    wdata:Q7200235 "CI080302" ;
 .
 
 <urn:mdciii:1603:16:384:3:80303>
@@ -5412,7 +5412,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80303" ;
     skos:prefLabel "Kakpin"@fra-Latn ;
-    wdata:q7200235 "CI080303" ;
+    wdata:Q7200235 "CI080303" ;
 .
 
 <urn:mdciii:1603:16:384:3:80304>
@@ -5422,7 +5422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80304" ;
     skos:prefLabel "Koutouba"@fra-Latn ;
-    wdata:q7200235 "CI080304" ;
+    wdata:Q7200235 "CI080304" ;
 .
 
 <urn:mdciii:1603:16:384:3:80305>
@@ -5432,7 +5432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80305" ;
     skos:prefLabel "Sominassé"@fra-Latn ;
-    wdata:q7200235 "CI080305" ;
+    wdata:Q7200235 "CI080305" ;
 .
 
 <urn:mdciii:1603:16:384:3:80401>
@@ -5442,7 +5442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80401" ;
     skos:prefLabel "Téhini"@fra-Latn ;
-    wdata:q7200235 "CI080401" ;
+    wdata:Q7200235 "CI080401" ;
 .
 
 <urn:mdciii:1603:16:384:3:80402>
@@ -5452,7 +5452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80402" ;
     skos:prefLabel "Gogo"@fra-Latn ;
-    wdata:q7200235 "CI080402" ;
+    wdata:Q7200235 "CI080402" ;
 .
 
 <urn:mdciii:1603:16:384:3:80403>
@@ -5462,7 +5462,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:80403" ;
     skos:prefLabel "Tougbo"@fra-Latn ;
-    wdata:q7200235 "CI080403" ;
+    wdata:Q7200235 "CI080403" ;
 .
 
 <urn:mdciii:1603:16:384:3:90101>
@@ -5472,7 +5472,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90101" ;
     skos:prefLabel "Bloléquin"@fra-Latn ;
-    wdata:q7200235 "CI090101" ;
+    wdata:Q7200235 "CI090101" ;
 .
 
 <urn:mdciii:1603:16:384:3:90102>
@@ -5482,7 +5482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90102" ;
     skos:prefLabel "Diboké"@fra-Latn ;
-    wdata:q7200235 "CI090102" ;
+    wdata:Q7200235 "CI090102" ;
 .
 
 <urn:mdciii:1603:16:384:3:90103>
@@ -5492,7 +5492,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90103" ;
     skos:prefLabel "Doké"@fra-Latn ;
-    wdata:q7200235 "CI090103" ;
+    wdata:Q7200235 "CI090103" ;
 .
 
 <urn:mdciii:1603:16:384:3:90104>
@@ -5502,7 +5502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90104" ;
     skos:prefLabel "Tinhou"@fra-Latn ;
-    wdata:q7200235 "CI090104" ;
+    wdata:Q7200235 "CI090104" ;
 .
 
 <urn:mdciii:1603:16:384:3:90105>
@@ -5512,7 +5512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90105" ;
     skos:prefLabel "Zéaglo"@fra-Latn ;
-    wdata:q7200235 "CI090105" ;
+    wdata:Q7200235 "CI090105" ;
 .
 
 <urn:mdciii:1603:16:384:3:90201>
@@ -5522,7 +5522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90201" ;
     skos:prefLabel "Guiglo"@fra-Latn ;
-    wdata:q7200235 "CI090201" ;
+    wdata:Q7200235 "CI090201" ;
 .
 
 <urn:mdciii:1603:16:384:3:90202>
@@ -5532,7 +5532,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90202" ;
     skos:prefLabel "Bédi-Gaozon"@fra-Latn ;
-    wdata:q7200235 "CI090202" ;
+    wdata:Q7200235 "CI090202" ;
 .
 
 <urn:mdciii:1603:16:384:3:90203>
@@ -5542,7 +5542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90203" ;
     skos:prefLabel "Kaadé"@fra-Latn ;
-    wdata:q7200235 "CI090203" ;
+    wdata:Q7200235 "CI090203" ;
 .
 
 <urn:mdciii:1603:16:384:3:90204>
@@ -5552,7 +5552,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90204" ;
     skos:prefLabel "Nizahon"@fra-Latn ;
-    wdata:q7200235 "CI090204" ;
+    wdata:Q7200235 "CI090204" ;
 .
 
 <urn:mdciii:1603:16:384:3:90301>
@@ -5562,7 +5562,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90301" ;
     skos:prefLabel "Taï"@fra-Latn ;
-    wdata:q7200235 "CI090301" ;
+    wdata:Q7200235 "CI090301" ;
 .
 
 <urn:mdciii:1603:16:384:3:90302>
@@ -5572,7 +5572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90302" ;
     skos:prefLabel "Zagné"@fra-Latn ;
-    wdata:q7200235 "CI090302" ;
+    wdata:Q7200235 "CI090302" ;
 .
 
 <urn:mdciii:1603:16:384:3:90401>
@@ -5582,7 +5582,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90401" ;
     skos:prefLabel "Toulepleu"@fra-Latn ;
-    wdata:q7200235 "CI090401" ;
+    wdata:Q7200235 "CI090401" ;
 .
 
 <urn:mdciii:1603:16:384:3:90402>
@@ -5592,7 +5592,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90402" ;
     skos:prefLabel "Bakoubly"@fra-Latn ;
-    wdata:q7200235 "CI090402" ;
+    wdata:Q7200235 "CI090402" ;
 .
 
 <urn:mdciii:1603:16:384:3:90403>
@@ -5602,7 +5602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90403" ;
     skos:prefLabel "Méo"@fra-Latn ;
-    wdata:q7200235 "CI090403" ;
+    wdata:Q7200235 "CI090403" ;
 .
 
 <urn:mdciii:1603:16:384:3:90404>
@@ -5612,7 +5612,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90404" ;
     skos:prefLabel "Nézobly"@fra-Latn ;
-    wdata:q7200235 "CI090404" ;
+    wdata:Q7200235 "CI090404" ;
 .
 
 <urn:mdciii:1603:16:384:3:90405>
@@ -5622,7 +5622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90405" ;
     skos:prefLabel "Péhé"@fra-Latn ;
-    wdata:q7200235 "CI090405" ;
+    wdata:Q7200235 "CI090405" ;
 .
 
 <urn:mdciii:1603:16:384:3:90406>
@@ -5632,6 +5632,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:384:3:90406" ;
     skos:prefLabel "Tiobly"@fra-Latn ;
-    wdata:q7200235 "CI090406" ;
+    wdata:Q7200235 "CI090406" ;
 .
 

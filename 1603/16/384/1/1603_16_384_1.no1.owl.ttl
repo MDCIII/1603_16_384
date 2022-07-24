@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "District Autonome D'Abidjan"@fra-Latn ;
-    wdata:q7200235 "CI01" ;
+    wdata:Q7200235 "CI01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -77,7 +77,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Folon"@fra-Latn ;
-    wdata:q7200235 "CI10" ;
+    wdata:Q7200235 "CI10" ;
 .
 
 <urn:mdciii:1603:16:384:1:11>
@@ -88,7 +88,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Gbeke"@fra-Latn ;
-    wdata:q7200235 "CI11" ;
+    wdata:Q7200235 "CI11" ;
 .
 
 <urn:mdciii:1603:16:384:1:12>
@@ -99,7 +99,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Gbokle"@fra-Latn ;
-    wdata:q7200235 "CI12" ;
+    wdata:Q7200235 "CI12" ;
 .
 
 <urn:mdciii:1603:16:384:1:13>
@@ -110,7 +110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Goh"@fra-Latn ;
-    wdata:q7200235 "CI13" ;
+    wdata:Q7200235 "CI13" ;
 .
 
 <urn:mdciii:1603:16:384:1:14>
@@ -121,7 +121,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Gontougo"@fra-Latn ;
-    wdata:q7200235 "CI14" ;
+    wdata:Q7200235 "CI14" ;
 .
 
 <urn:mdciii:1603:16:384:1:15>
@@ -132,7 +132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Grands Ponts"@fra-Latn ;
-    wdata:q7200235 "CI15" ;
+    wdata:Q7200235 "CI15" ;
 .
 
 <urn:mdciii:1603:16:384:1:16>
@@ -143,7 +143,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Guemon"@fra-Latn ;
-    wdata:q7200235 "CI16" ;
+    wdata:Q7200235 "CI16" ;
 .
 
 <urn:mdciii:1603:16:384:1:17>
@@ -154,7 +154,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Hambol"@fra-Latn ;
-    wdata:q7200235 "CI17" ;
+    wdata:Q7200235 "CI17" ;
 .
 
 <urn:mdciii:1603:16:384:1:18>
@@ -165,7 +165,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Haut-Sassandra"@fra-Latn ;
-    wdata:q7200235 "CI18" ;
+    wdata:Q7200235 "CI18" ;
 .
 
 <urn:mdciii:1603:16:384:1:19>
@@ -176,7 +176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Iffou"@fra-Latn ;
-    wdata:q7200235 "CI19" ;
+    wdata:Q7200235 "CI19" ;
 .
 
 <urn:mdciii:1603:16:384:1:2>
@@ -187,7 +187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "District Autonome De Yamoussoukro"@fra-Latn ;
-    wdata:q7200235 "CI02" ;
+    wdata:Q7200235 "CI02" ;
 .
 
 <urn:mdciii:1603:16:384:1:20>
@@ -198,7 +198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Indenie-Djuablin"@fra-Latn ;
-    wdata:q7200235 "CI20" ;
+    wdata:Q7200235 "CI20" ;
 .
 
 <urn:mdciii:1603:16:384:1:21>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:21" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Kabadougou"@fra-Latn ;
-    wdata:q7200235 "CI21" ;
+    wdata:Q7200235 "CI21" ;
 .
 
 <urn:mdciii:1603:16:384:1:22>
@@ -220,7 +220,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:22" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Loh-Djiboua"@fra-Latn ;
-    wdata:q7200235 "CI22" ;
+    wdata:Q7200235 "CI22" ;
 .
 
 <urn:mdciii:1603:16:384:1:23>
@@ -231,7 +231,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:23" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Marahoue"@fra-Latn ;
-    wdata:q7200235 "CI23" ;
+    wdata:Q7200235 "CI23" ;
 .
 
 <urn:mdciii:1603:16:384:1:24>
@@ -242,7 +242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:24" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Me"@fra-Latn ;
-    wdata:q7200235 "CI24" ;
+    wdata:Q7200235 "CI24" ;
 .
 
 <urn:mdciii:1603:16:384:1:25>
@@ -253,7 +253,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:25" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Moronou"@fra-Latn ;
-    wdata:q7200235 "CI25" ;
+    wdata:Q7200235 "CI25" ;
 .
 
 <urn:mdciii:1603:16:384:1:26>
@@ -264,7 +264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:26" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Nawa"@fra-Latn ;
-    wdata:q7200235 "CI26" ;
+    wdata:Q7200235 "CI26" ;
 .
 
 <urn:mdciii:1603:16:384:1:27>
@@ -275,7 +275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:27" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "N'Zi"@fra-Latn ;
-    wdata:q7200235 "CI27" ;
+    wdata:Q7200235 "CI27" ;
 .
 
 <urn:mdciii:1603:16:384:1:28>
@@ -286,7 +286,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:28" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Poro"@fra-Latn ;
-    wdata:q7200235 "CI28" ;
+    wdata:Q7200235 "CI28" ;
 .
 
 <urn:mdciii:1603:16:384:1:29>
@@ -297,7 +297,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:29" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "San Pedro"@fra-Latn ;
-    wdata:q7200235 "CI29" ;
+    wdata:Q7200235 "CI29" ;
 .
 
 <urn:mdciii:1603:16:384:1:3>
@@ -308,7 +308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Agneby-Tiassa"@fra-Latn ;
-    wdata:q7200235 "CI03" ;
+    wdata:Q7200235 "CI03" ;
 .
 
 <urn:mdciii:1603:16:384:1:30>
@@ -319,7 +319,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:30" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Sud-Comoe"@fra-Latn ;
-    wdata:q7200235 "CI30" ;
+    wdata:Q7200235 "CI30" ;
 .
 
 <urn:mdciii:1603:16:384:1:31>
@@ -330,7 +330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:31" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Tchologo"@fra-Latn ;
-    wdata:q7200235 "CI31" ;
+    wdata:Q7200235 "CI31" ;
 .
 
 <urn:mdciii:1603:16:384:1:32>
@@ -341,7 +341,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:32" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Tonkpi"@fra-Latn ;
-    wdata:q7200235 "CI32" ;
+    wdata:Q7200235 "CI32" ;
 .
 
 <urn:mdciii:1603:16:384:1:33>
@@ -352,7 +352,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:33" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Worodougou"@fra-Latn ;
-    wdata:q7200235 "CI33" ;
+    wdata:Q7200235 "CI33" ;
 .
 
 <urn:mdciii:1603:16:384:1:4>
@@ -363,7 +363,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Bafing"@fra-Latn ;
-    wdata:q7200235 "CI04" ;
+    wdata:Q7200235 "CI04" ;
 .
 
 <urn:mdciii:1603:16:384:1:5>
@@ -374,7 +374,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Bagoue"@fra-Latn ;
-    wdata:q7200235 "CI05" ;
+    wdata:Q7200235 "CI05" ;
 .
 
 <urn:mdciii:1603:16:384:1:6>
@@ -385,7 +385,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Belier"@fra-Latn ;
-    wdata:q7200235 "CI06" ;
+    wdata:Q7200235 "CI06" ;
 .
 
 <urn:mdciii:1603:16:384:1:7>
@@ -396,7 +396,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Bere"@fra-Latn ;
-    wdata:q7200235 "CI07" ;
+    wdata:Q7200235 "CI07" ;
 .
 
 <urn:mdciii:1603:16:384:1:8>
@@ -407,7 +407,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Bounkani"@fra-Latn ;
-    wdata:q7200235 "CI08" ;
+    wdata:Q7200235 "CI08" ;
 .
 
 <urn:mdciii:1603:16:384:1:9>
@@ -418,6 +418,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:384:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:384:0> ;
     skos:prefLabel "Cavally"@fra-Latn ;
-    wdata:q7200235 "CI09" ;
+    wdata:Q7200235 "CI09" ;
 .
 
